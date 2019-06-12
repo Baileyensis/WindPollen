@@ -1,0 +1,577 @@
+"Sample","Orchard","Location","Row","Direction","Interval","Interval.Duration","Date","PollenType","Count","TotalPollen","NonCherry","Propos","num"
+1,"CSO","CANOPY","1A","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",1
+1,"CSO","CANOPY","1A","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",1
+1,"CSO","CANOPY","1A","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",1
+1,"CSO","CANOPY","1A","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",1
+1,"CSO","CANOPY","1A","N","PM",15,"17 May 2016","Other angiosperm",2,13,13,0.1538461538,2
+1,"CSO","CANOPY","1A","N","PM",15,"17 May 2016","Cherry",0,13,13,0,2
+1,"CSO","CANOPY","1A","N","PM",15,"17 May 2016","Other gymnosperm",11,13,13,0.8461538462,2
+1,"CSO","CANOPY","1A","N","PM",15,"17 May 2016","NonCherry",13,13,13,1,2
+2,"CSO","CANOPY","1A","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",3
+2,"CSO","CANOPY","1A","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",3
+2,"CSO","CANOPY","1A","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",3
+2,"CSO","CANOPY","1A","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",3
+2,"CSO","CANOPY","1A","S","PM",15,"17 May 2016","Other angiosperm",2,21,21,0.0952380952,4
+2,"CSO","CANOPY","1A","S","PM",15,"17 May 2016","Cherry",0,21,21,0,4
+2,"CSO","CANOPY","1A","S","PM",15,"17 May 2016","Other gymnosperm",19,21,21,0.9047619048,4
+2,"CSO","CANOPY","1A","S","PM",15,"17 May 2016","NonCherry",21,21,21,1,4
+5,"CSO","CANOPY","1B","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",5
+5,"CSO","CANOPY","1B","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",5
+5,"CSO","CANOPY","1B","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",5
+5,"CSO","CANOPY","1B","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",5
+5,"CSO","CANOPY","1B","N","PM",15,"17 May 2016","Other angiosperm",3,12,12,0.25,6
+5,"CSO","CANOPY","1B","N","PM",15,"17 May 2016","Cherry",0,12,12,0,6
+5,"CSO","CANOPY","1B","N","PM",15,"17 May 2016","Other gymnosperm",9,12,12,0.75,6
+5,"CSO","CANOPY","1B","N","PM",15,"17 May 2016","NonCherry",12,12,12,1,6
+6,"CSO","CANOPY","1B","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",7
+6,"CSO","CANOPY","1B","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",7
+6,"CSO","CANOPY","1B","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",7
+6,"CSO","CANOPY","1B","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",7
+6,"CSO","CANOPY","1B","S","PM",15,"17 May 2016","Other angiosperm",10,54,54,0.1851851852,8
+6,"CSO","CANOPY","1B","S","PM",15,"17 May 2016","Cherry",0,54,54,0,8
+6,"CSO","CANOPY","1B","S","PM",15,"17 May 2016","Other gymnosperm",44,54,54,0.8148148148,8
+6,"CSO","CANOPY","1B","S","PM",15,"17 May 2016","NonCherry",54,54,54,1,8
+9,"CSO","CANOPY","1C","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",9
+9,"CSO","CANOPY","1C","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",9
+9,"CSO","CANOPY","1C","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",9
+9,"CSO","CANOPY","1C","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",9
+9,"CSO","CANOPY","1C","N","PM",15,"17 May 2016","Other angiosperm",4,29,29,0.1379310345,10
+9,"CSO","CANOPY","1C","N","PM",15,"17 May 2016","Cherry",0,29,29,0,10
+9,"CSO","CANOPY","1C","N","PM",15,"17 May 2016","Other gymnosperm",25,29,29,0.8620689655,10
+9,"CSO","CANOPY","1C","N","PM",15,"17 May 2016","NonCherry",29,29,29,1,10
+10,"CSO","CANOPY","1C","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",11
+10,"CSO","CANOPY","1C","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",11
+10,"CSO","CANOPY","1C","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",11
+10,"CSO","CANOPY","1C","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",11
+10,"CSO","CANOPY","1C","S","PM",15,"17 May 2016","Other angiosperm",5,27,26,0.1851851852,12
+10,"CSO","CANOPY","1C","S","PM",15,"17 May 2016","Cherry",1,27,26,0.037037037,12
+10,"CSO","CANOPY","1C","S","PM",15,"17 May 2016","Other gymnosperm",21,27,26,0.7777777778,12
+10,"CSO","CANOPY","1C","S","PM",15,"17 May 2016","NonCherry",26,27,26,0.962962963,12
+13,"CSO","CANOPY","2A","N","AM",9,"17 May 2016","Other angiosperm",1,7,3,0.1428571429,13
+13,"CSO","CANOPY","2A","N","AM",9,"17 May 2016","Cherry",4,7,3,0.5714285714,13
+13,"CSO","CANOPY","2A","N","AM",9,"17 May 2016","Other gymnosperm",2,7,3,0.2857142857,13
+13,"CSO","CANOPY","2A","N","AM",9,"17 May 2016","NonCherry",3,7,3,0.4285714286,13
+13,"CSO","CANOPY","2A","N","PM",15,"17 May 2016","Other angiosperm",0,21,21,0,14
+13,"CSO","CANOPY","2A","N","PM",15,"17 May 2016","Cherry",0,21,21,0,14
+13,"CSO","CANOPY","2A","N","PM",15,"17 May 2016","Other gymnosperm",21,21,21,1,14
+13,"CSO","CANOPY","2A","N","PM",15,"17 May 2016","NonCherry",21,21,21,1,14
+14,"CSO","CANOPY","2A","S","AM",9,"17 May 2016","Other angiosperm",4,15,13,0.2666666667,15
+14,"CSO","CANOPY","2A","S","AM",9,"17 May 2016","Cherry",2,15,13,0.1333333333,15
+14,"CSO","CANOPY","2A","S","AM",9,"17 May 2016","Other gymnosperm",9,15,13,0.6,15
+14,"CSO","CANOPY","2A","S","AM",9,"17 May 2016","NonCherry",13,15,13,0.8666666667,15
+14,"CSO","CANOPY","2A","S","PM",15,"17 May 2016","Other angiosperm",0,4,3,0,16
+14,"CSO","CANOPY","2A","S","PM",15,"17 May 2016","Cherry",1,4,3,0.25,16
+14,"CSO","CANOPY","2A","S","PM",15,"17 May 2016","Other gymnosperm",3,4,3,0.75,16
+14,"CSO","CANOPY","2A","S","PM",15,"17 May 2016","NonCherry",3,4,3,0.75,16
+17,"CSO","CANOPY","2B","N","AM",9,"17 May 2016","Other angiosperm",2,5,5,0.4,17
+17,"CSO","CANOPY","2B","N","AM",9,"17 May 2016","Cherry",0,5,5,0,17
+17,"CSO","CANOPY","2B","N","AM",9,"17 May 2016","Other gymnosperm",3,5,5,0.6,17
+17,"CSO","CANOPY","2B","N","AM",9,"17 May 2016","NonCherry",5,5,5,1,17
+17,"CSO","CANOPY","2B","N","PM",15,"17 May 2016","Other angiosperm",5,14,13,0.3571428571,18
+17,"CSO","CANOPY","2B","N","PM",15,"17 May 2016","Cherry",1,14,13,0.0714285714,18
+17,"CSO","CANOPY","2B","N","PM",15,"17 May 2016","Other gymnosperm",8,14,13,0.5714285714,18
+17,"CSO","CANOPY","2B","N","PM",15,"17 May 2016","NonCherry",13,14,13,0.9285714286,18
+18,"CSO","CANOPY","2B","S","AM",9,"17 May 2016","Other angiosperm",3,4,4,0.75,19
+18,"CSO","CANOPY","2B","S","AM",9,"17 May 2016","Cherry",0,4,4,0,19
+18,"CSO","CANOPY","2B","S","AM",9,"17 May 2016","Other gymnosperm",1,4,4,0.25,19
+18,"CSO","CANOPY","2B","S","AM",9,"17 May 2016","NonCherry",4,4,4,1,19
+18,"CSO","CANOPY","2B","S","PM",15,"17 May 2016","Other angiosperm",11,60,60,0.1833333333,20
+18,"CSO","CANOPY","2B","S","PM",15,"17 May 2016","Cherry",0,60,60,0,20
+18,"CSO","CANOPY","2B","S","PM",15,"17 May 2016","Other gymnosperm",49,60,60,0.8166666667,20
+18,"CSO","CANOPY","2B","S","PM",15,"17 May 2016","NonCherry",60,60,60,1,20
+21,"CSO","CANOPY","2C","N","AM",9,"17 May 2016","Other angiosperm",5,8,8,0.625,21
+21,"CSO","CANOPY","2C","N","AM",9,"17 May 2016","Cherry",0,8,8,0,21
+21,"CSO","CANOPY","2C","N","AM",9,"17 May 2016","Other gymnosperm",3,8,8,0.375,21
+21,"CSO","CANOPY","2C","N","AM",9,"17 May 2016","NonCherry",8,8,8,1,21
+21,"CSO","CANOPY","2C","N","PM",15,"17 May 2016","Other angiosperm",10,26,26,0.3846153846,22
+21,"CSO","CANOPY","2C","N","PM",15,"17 May 2016","Cherry",0,26,26,0,22
+21,"CSO","CANOPY","2C","N","PM",15,"17 May 2016","Other gymnosperm",16,26,26,0.6153846154,22
+21,"CSO","CANOPY","2C","N","PM",15,"17 May 2016","NonCherry",26,26,26,1,22
+22,"CSO","CANOPY","2C","S","AM",9,"17 May 2016","Other angiosperm",2,4,4,0.5,23
+22,"CSO","CANOPY","2C","S","AM",9,"17 May 2016","Cherry",0,4,4,0,23
+22,"CSO","CANOPY","2C","S","AM",9,"17 May 2016","Other gymnosperm",2,4,4,0.5,23
+22,"CSO","CANOPY","2C","S","AM",9,"17 May 2016","NonCherry",4,4,4,1,23
+22,"CSO","CANOPY","2C","S","PM",15,"17 May 2016","Other angiosperm",7,41,41,0.1707317073,24
+22,"CSO","CANOPY","2C","S","PM",15,"17 May 2016","Cherry",0,41,41,0,24
+22,"CSO","CANOPY","2C","S","PM",15,"17 May 2016","Other gymnosperm",34,41,41,0.8292682927,24
+22,"CSO","CANOPY","2C","S","PM",15,"17 May 2016","NonCherry",41,41,41,1,24
+25,"CSO","CANOPY","3A","N","AM",9,"17 May 2016","Other angiosperm",5,15,13,0.3333333333,25
+25,"CSO","CANOPY","3A","N","AM",9,"17 May 2016","Cherry",2,15,13,0.1333333333,25
+25,"CSO","CANOPY","3A","N","AM",9,"17 May 2016","Other gymnosperm",8,15,13,0.5333333333,25
+25,"CSO","CANOPY","3A","N","AM",9,"17 May 2016","NonCherry",13,15,13,0.8666666667,25
+25,"CSO","CANOPY","3A","N","PM",15,"17 May 2016","Other angiosperm",7,16,14,0.4375,26
+25,"CSO","CANOPY","3A","N","PM",15,"17 May 2016","Cherry",2,16,14,0.125,26
+25,"CSO","CANOPY","3A","N","PM",15,"17 May 2016","Other gymnosperm",7,16,14,0.4375,26
+25,"CSO","CANOPY","3A","N","PM",15,"17 May 2016","NonCherry",14,16,14,0.875,26
+26,"CSO","CANOPY","3A","S","AM",9,"17 May 2016","Other angiosperm",3,8,7,0.375,27
+26,"CSO","CANOPY","3A","S","AM",9,"17 May 2016","Cherry",1,8,7,0.125,27
+26,"CSO","CANOPY","3A","S","AM",9,"17 May 2016","Other gymnosperm",4,8,7,0.5,27
+26,"CSO","CANOPY","3A","S","AM",9,"17 May 2016","NonCherry",7,8,7,0.875,27
+26,"CSO","CANOPY","3A","S","PM",15,"17 May 2016","Other angiosperm",1,1,1,1,28
+26,"CSO","CANOPY","3A","S","PM",15,"17 May 2016","Cherry",0,1,1,0,28
+26,"CSO","CANOPY","3A","S","PM",15,"17 May 2016","Other gymnosperm",0,1,1,0,28
+26,"CSO","CANOPY","3A","S","PM",15,"17 May 2016","NonCherry",1,1,1,1,28
+29,"CSO","CANOPY","3B","N","AM",9,"17 May 2016","Other angiosperm",5,5,5,1,29
+29,"CSO","CANOPY","3B","N","AM",9,"17 May 2016","Cherry",0,5,5,0,29
+29,"CSO","CANOPY","3B","N","AM",9,"17 May 2016","Other gymnosperm",0,5,5,0,29
+29,"CSO","CANOPY","3B","N","AM",9,"17 May 2016","NonCherry",5,5,5,1,29
+29,"CSO","CANOPY","3B","N","PM",15,"17 May 2016","Other angiosperm",10,10,10,1,30
+29,"CSO","CANOPY","3B","N","PM",15,"17 May 2016","Cherry",0,10,10,0,30
+29,"CSO","CANOPY","3B","N","PM",15,"17 May 2016","Other gymnosperm",0,10,10,0,30
+29,"CSO","CANOPY","3B","N","PM",15,"17 May 2016","NonCherry",10,10,10,1,30
+30,"CSO","CANOPY","3B","S","AM",9,"17 May 2016","Other angiosperm",0,3,3,0,31
+30,"CSO","CANOPY","3B","S","AM",9,"17 May 2016","Cherry",0,3,3,0,31
+30,"CSO","CANOPY","3B","S","AM",9,"17 May 2016","Other gymnosperm",3,3,3,1,31
+30,"CSO","CANOPY","3B","S","AM",9,"17 May 2016","NonCherry",3,3,3,1,31
+30,"CSO","CANOPY","3B","S","PM",15,"17 May 2016","Other angiosperm",3,44,44,0.0681818182,32
+30,"CSO","CANOPY","3B","S","PM",15,"17 May 2016","Cherry",0,44,44,0,32
+30,"CSO","CANOPY","3B","S","PM",15,"17 May 2016","Other gymnosperm",41,44,44,0.9318181818,32
+30,"CSO","CANOPY","3B","S","PM",15,"17 May 2016","NonCherry",44,44,44,1,32
+33,"CSO","CANOPY","3C","N","AM",9,"17 May 2016","Other angiosperm",0,2,2,0,33
+33,"CSO","CANOPY","3C","N","AM",9,"17 May 2016","Cherry",0,2,2,0,33
+33,"CSO","CANOPY","3C","N","AM",9,"17 May 2016","Other gymnosperm",2,2,2,1,33
+33,"CSO","CANOPY","3C","N","AM",9,"17 May 2016","NonCherry",2,2,2,1,33
+33,"CSO","CANOPY","3C","N","PM",15,"17 May 2016","Other angiosperm",6,22,22,0.2727272727,34
+33,"CSO","CANOPY","3C","N","PM",15,"17 May 2016","Cherry",0,22,22,0,34
+33,"CSO","CANOPY","3C","N","PM",15,"17 May 2016","Other gymnosperm",16,22,22,0.7272727273,34
+33,"CSO","CANOPY","3C","N","PM",15,"17 May 2016","NonCherry",22,22,22,1,34
+34,"CSO","CANOPY","3C","S","AM",9,"17 May 2016","Other angiosperm",3,17,17,0.1764705882,35
+34,"CSO","CANOPY","3C","S","AM",9,"17 May 2016","Cherry",0,17,17,0,35
+34,"CSO","CANOPY","3C","S","AM",9,"17 May 2016","Other gymnosperm",14,17,17,0.8235294118,35
+34,"CSO","CANOPY","3C","S","AM",9,"17 May 2016","NonCherry",17,17,17,1,35
+34,"CSO","CANOPY","3C","S","PM",15,"17 May 2016","Other angiosperm",4,7,7,0.5714285714,36
+34,"CSO","CANOPY","3C","S","PM",15,"17 May 2016","Cherry",0,7,7,0,36
+34,"CSO","CANOPY","3C","S","PM",15,"17 May 2016","Other gymnosperm",3,7,7,0.4285714286,36
+34,"CSO","CANOPY","3C","S","PM",15,"17 May 2016","NonCherry",7,7,7,1,36
+3,"CSO","ROW","1A","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",37
+3,"CSO","ROW","1A","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",37
+3,"CSO","ROW","1A","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",37
+3,"CSO","ROW","1A","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",37
+3,"CSO","ROW","1A","N","PM",15,"17 May 2016","Other angiosperm",3,30,29,0.1,38
+3,"CSO","ROW","1A","N","PM",15,"17 May 2016","Cherry",1,30,29,0.0333333333,38
+3,"CSO","ROW","1A","N","PM",15,"17 May 2016","Other gymnosperm",26,30,29,0.8666666667,38
+3,"CSO","ROW","1A","N","PM",15,"17 May 2016","NonCherry",29,30,29,0.9666666667,38
+4,"CSO","ROW","1A","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",39
+4,"CSO","ROW","1A","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",39
+4,"CSO","ROW","1A","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",39
+4,"CSO","ROW","1A","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",39
+4,"CSO","ROW","1A","S","PM",15,"17 May 2016","Other angiosperm",0,6,6,0,40
+4,"CSO","ROW","1A","S","PM",15,"17 May 2016","Cherry",0,6,6,0,40
+4,"CSO","ROW","1A","S","PM",15,"17 May 2016","Other gymnosperm",6,6,6,1,40
+4,"CSO","ROW","1A","S","PM",15,"17 May 2016","NonCherry",6,6,6,1,40
+7,"CSO","ROW","1B","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",41
+7,"CSO","ROW","1B","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",41
+7,"CSO","ROW","1B","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",41
+7,"CSO","ROW","1B","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",41
+7,"CSO","ROW","1B","N","PM",15,"17 May 2016","Other angiosperm",1,18,18,0.0555555556,42
+7,"CSO","ROW","1B","N","PM",15,"17 May 2016","Cherry",0,18,18,0,42
+7,"CSO","ROW","1B","N","PM",15,"17 May 2016","Other gymnosperm",17,18,18,0.9444444444,42
+7,"CSO","ROW","1B","N","PM",15,"17 May 2016","NonCherry",18,18,18,1,42
+8,"CSO","ROW","1B","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",43
+8,"CSO","ROW","1B","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",43
+8,"CSO","ROW","1B","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",43
+8,"CSO","ROW","1B","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",43
+8,"CSO","ROW","1B","S","PM",15,"17 May 2016","Other angiosperm",1,6,6,0.1666666667,44
+8,"CSO","ROW","1B","S","PM",15,"17 May 2016","Cherry",0,6,6,0,44
+8,"CSO","ROW","1B","S","PM",15,"17 May 2016","Other gymnosperm",5,6,6,0.8333333333,44
+8,"CSO","ROW","1B","S","PM",15,"17 May 2016","NonCherry",6,6,6,1,44
+11,"CSO","ROW","1C","N","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",45
+11,"CSO","ROW","1C","N","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",45
+11,"CSO","ROW","1C","N","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",45
+11,"CSO","ROW","1C","N","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",45
+11,"CSO","ROW","1C","N","PM",15,"17 May 2016","Other angiosperm",1,15,15,0.0666666667,46
+11,"CSO","ROW","1C","N","PM",15,"17 May 2016","Cherry",0,15,15,0,46
+11,"CSO","ROW","1C","N","PM",15,"17 May 2016","Other gymnosperm",14,15,15,0.9333333333,46
+11,"CSO","ROW","1C","N","PM",15,"17 May 2016","NonCherry",15,15,15,1,46
+12,"CSO","ROW","1C","S","AM",9,"17 May 2016","Other angiosperm","NA","NA","NA","NA",47
+12,"CSO","ROW","1C","S","AM",9,"17 May 2016","Cherry","NA","NA","NA","NA",47
+12,"CSO","ROW","1C","S","AM",9,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",47
+12,"CSO","ROW","1C","S","AM",9,"17 May 2016","NonCherry","NA","NA","NA","NA",47
+12,"CSO","ROW","1C","S","PM",15,"17 May 2016","Other angiosperm",0,13,12,0,48
+12,"CSO","ROW","1C","S","PM",15,"17 May 2016","Cherry",1,13,12,0.0769230769,48
+12,"CSO","ROW","1C","S","PM",15,"17 May 2016","Other gymnosperm",12,13,12,0.9230769231,48
+12,"CSO","ROW","1C","S","PM",15,"17 May 2016","NonCherry",12,13,12,0.9230769231,48
+15,"CSO","ROW","2A","N","AM",9,"17 May 2016","Other angiosperm",2,10,9,0.2,49
+15,"CSO","ROW","2A","N","AM",9,"17 May 2016","Cherry",1,10,9,0.1,49
+15,"CSO","ROW","2A","N","AM",9,"17 May 2016","Other gymnosperm",7,10,9,0.7,49
+15,"CSO","ROW","2A","N","AM",9,"17 May 2016","NonCherry",9,10,9,0.9,49
+15,"CSO","ROW","2A","N","PM",15,"17 May 2016","Other angiosperm",2,12,11,0.1666666667,50
+15,"CSO","ROW","2A","N","PM",15,"17 May 2016","Cherry",1,12,11,0.0833333333,50
+15,"CSO","ROW","2A","N","PM",15,"17 May 2016","Other gymnosperm",9,12,11,0.75,50
+15,"CSO","ROW","2A","N","PM",15,"17 May 2016","NonCherry",11,12,11,0.9166666667,50
+16,"CSO","ROW","2A","S","AM",9,"17 May 2016","Other angiosperm",14,34,32,0.4117647059,51
+16,"CSO","ROW","2A","S","AM",9,"17 May 2016","Cherry",2,34,32,0.0588235294,51
+16,"CSO","ROW","2A","S","AM",9,"17 May 2016","Other gymnosperm",18,34,32,0.5294117647,51
+16,"CSO","ROW","2A","S","AM",9,"17 May 2016","NonCherry",32,34,32,0.9411764706,51
+16,"CSO","ROW","2A","S","PM",15,"17 May 2016","Other angiosperm",2,15,14,0.1333333333,52
+16,"CSO","ROW","2A","S","PM",15,"17 May 2016","Cherry",1,15,14,0.0666666667,52
+16,"CSO","ROW","2A","S","PM",15,"17 May 2016","Other gymnosperm",12,15,14,0.8,52
+16,"CSO","ROW","2A","S","PM",15,"17 May 2016","NonCherry",14,15,14,0.9333333333,52
+19,"CSO","ROW","2B","N","AM",9,"17 May 2016","Other angiosperm",5,11,11,0.4545454545,53
+19,"CSO","ROW","2B","N","AM",9,"17 May 2016","Cherry",0,11,11,0,53
+19,"CSO","ROW","2B","N","AM",9,"17 May 2016","Other gymnosperm",6,11,11,0.5454545455,53
+19,"CSO","ROW","2B","N","AM",9,"17 May 2016","NonCherry",11,11,11,1,53
+19,"CSO","ROW","2B","N","PM",15,"17 May 2016","Other angiosperm",8,26,22,0.3076923077,54
+19,"CSO","ROW","2B","N","PM",15,"17 May 2016","Cherry",4,26,22,0.1538461538,54
+19,"CSO","ROW","2B","N","PM",15,"17 May 2016","Other gymnosperm",14,26,22,0.5384615385,54
+19,"CSO","ROW","2B","N","PM",15,"17 May 2016","NonCherry",22,26,22,0.8461538462,54
+20,"CSO","ROW","2B","S","AM",9,"17 May 2016","Other angiosperm",3,7,7,0.4285714286,55
+20,"CSO","ROW","2B","S","AM",9,"17 May 2016","Cherry",0,7,7,0,55
+20,"CSO","ROW","2B","S","AM",9,"17 May 2016","Other gymnosperm",4,7,7,0.5714285714,55
+20,"CSO","ROW","2B","S","AM",9,"17 May 2016","NonCherry",7,7,7,1,55
+20,"CSO","ROW","2B","S","PM",15,"17 May 2016","Other angiosperm",3,17,17,0.1764705882,56
+20,"CSO","ROW","2B","S","PM",15,"17 May 2016","Cherry",0,17,17,0,56
+20,"CSO","ROW","2B","S","PM",15,"17 May 2016","Other gymnosperm",14,17,17,0.8235294118,56
+20,"CSO","ROW","2B","S","PM",15,"17 May 2016","NonCherry",17,17,17,1,56
+23,"CSO","ROW","2C","N","AM",9,"17 May 2016","Other angiosperm",1,5,5,0.2,57
+23,"CSO","ROW","2C","N","AM",9,"17 May 2016","Cherry",0,5,5,0,57
+23,"CSO","ROW","2C","N","AM",9,"17 May 2016","Other gymnosperm",4,5,5,0.8,57
+23,"CSO","ROW","2C","N","AM",9,"17 May 2016","NonCherry",5,5,5,1,57
+23,"CSO","ROW","2C","N","PM",15,"17 May 2016","Other angiosperm",1,5,5,0.2,58
+23,"CSO","ROW","2C","N","PM",15,"17 May 2016","Cherry",0,5,5,0,58
+23,"CSO","ROW","2C","N","PM",15,"17 May 2016","Other gymnosperm",4,5,5,0.8,58
+23,"CSO","ROW","2C","N","PM",15,"17 May 2016","NonCherry",5,5,5,1,58
+24,"CSO","ROW","2C","S","AM",9,"17 May 2016","Other angiosperm",3,9,9,0.3333333333,59
+24,"CSO","ROW","2C","S","AM",9,"17 May 2016","Cherry",0,9,9,0,59
+24,"CSO","ROW","2C","S","AM",9,"17 May 2016","Other gymnosperm",6,9,9,0.6666666667,59
+24,"CSO","ROW","2C","S","AM",9,"17 May 2016","NonCherry",9,9,9,1,59
+24,"CSO","ROW","2C","S","PM",15,"17 May 2016","Other angiosperm",2,4,4,0.5,60
+24,"CSO","ROW","2C","S","PM",15,"17 May 2016","Cherry",0,4,4,0,60
+24,"CSO","ROW","2C","S","PM",15,"17 May 2016","Other gymnosperm",2,4,4,0.5,60
+24,"CSO","ROW","2C","S","PM",15,"17 May 2016","NonCherry",4,4,4,1,60
+27,"CSO","ROW","3A","N","AM",9,"17 May 2016","Other angiosperm",7,18,11,0.3888888889,61
+27,"CSO","ROW","3A","N","AM",9,"17 May 2016","Cherry",7,18,11,0.3888888889,61
+27,"CSO","ROW","3A","N","AM",9,"17 May 2016","Other gymnosperm",4,18,11,0.2222222222,61
+27,"CSO","ROW","3A","N","AM",9,"17 May 2016","NonCherry",11,18,11,0.6111111111,61
+27,"CSO","ROW","3A","N","PM",15,"17 May 2016","Other angiosperm",2,7,5,0.2857142857,62
+27,"CSO","ROW","3A","N","PM",15,"17 May 2016","Cherry",2,7,5,0.2857142857,62
+27,"CSO","ROW","3A","N","PM",15,"17 May 2016","Other gymnosperm",3,7,5,0.4285714286,62
+27,"CSO","ROW","3A","N","PM",15,"17 May 2016","NonCherry",5,7,5,0.7142857143,62
+28,"CSO","ROW","3A","S","AM",9,"17 May 2016","Other angiosperm",10,43,22,0.2325581395,63
+28,"CSO","ROW","3A","S","AM",9,"17 May 2016","Cherry",21,43,22,0.488372093,63
+28,"CSO","ROW","3A","S","AM",9,"17 May 2016","Other gymnosperm",12,43,22,0.2790697674,63
+28,"CSO","ROW","3A","S","AM",9,"17 May 2016","NonCherry",22,43,22,0.511627907,63
+28,"CSO","ROW","3A","S","PM",15,"17 May 2016","Other angiosperm",0,1,1,0,64
+28,"CSO","ROW","3A","S","PM",15,"17 May 2016","Cherry",0,1,1,0,64
+28,"CSO","ROW","3A","S","PM",15,"17 May 2016","Other gymnosperm",1,1,1,1,64
+28,"CSO","ROW","3A","S","PM",15,"17 May 2016","NonCherry",1,1,1,1,64
+31,"CSO","ROW","3B","N","AM",9,"17 May 2016","Other angiosperm",4,12,12,0.3333333333,65
+31,"CSO","ROW","3B","N","AM",9,"17 May 2016","Cherry",0,12,12,0,65
+31,"CSO","ROW","3B","N","AM",9,"17 May 2016","Other gymnosperm",8,12,12,0.6666666667,65
+31,"CSO","ROW","3B","N","AM",9,"17 May 2016","NonCherry",12,12,12,1,65
+31,"CSO","ROW","3B","N","PM",15,"17 May 2016","Other angiosperm",8,8,8,1,66
+31,"CSO","ROW","3B","N","PM",15,"17 May 2016","Cherry",0,8,8,0,66
+31,"CSO","ROW","3B","N","PM",15,"17 May 2016","Other gymnosperm",0,8,8,0,66
+31,"CSO","ROW","3B","N","PM",15,"17 May 2016","NonCherry",8,8,8,1,66
+32,"CSO","ROW","3B","S","AM",9,"17 May 2016","Other angiosperm",5,14,14,0.3571428571,67
+32,"CSO","ROW","3B","S","AM",9,"17 May 2016","Cherry",0,14,14,0,67
+32,"CSO","ROW","3B","S","AM",9,"17 May 2016","Other gymnosperm",9,14,14,0.6428571429,67
+32,"CSO","ROW","3B","S","AM",9,"17 May 2016","NonCherry",14,14,14,1,67
+32,"CSO","ROW","3B","S","PM",15,"17 May 2016","Other angiosperm",5,5,5,1,68
+32,"CSO","ROW","3B","S","PM",15,"17 May 2016","Cherry",0,5,5,0,68
+32,"CSO","ROW","3B","S","PM",15,"17 May 2016","Other gymnosperm",0,5,5,0,68
+32,"CSO","ROW","3B","S","PM",15,"17 May 2016","NonCherry",5,5,5,1,68
+35,"CSO","ROW","3C","N","AM",9,"17 May 2016","Other angiosperm",2,17,17,0.1176470588,69
+35,"CSO","ROW","3C","N","AM",9,"17 May 2016","Cherry",0,17,17,0,69
+35,"CSO","ROW","3C","N","AM",9,"17 May 2016","Other gymnosperm",15,17,17,0.8823529412,69
+35,"CSO","ROW","3C","N","AM",9,"17 May 2016","NonCherry",17,17,17,1,69
+35,"CSO","ROW","3C","N","PM",15,"17 May 2016","Other angiosperm",5,5,5,1,70
+35,"CSO","ROW","3C","N","PM",15,"17 May 2016","Cherry",0,5,5,0,70
+35,"CSO","ROW","3C","N","PM",15,"17 May 2016","Other gymnosperm",0,5,5,0,70
+35,"CSO","ROW","3C","N","PM",15,"17 May 2016","NonCherry",5,5,5,1,70
+36,"CSO","ROW","3C","S","AM",9,"17 May 2016","Other angiosperm",5,9,9,0.5555555556,71
+36,"CSO","ROW","3C","S","AM",9,"17 May 2016","Cherry",0,9,9,0,71
+36,"CSO","ROW","3C","S","AM",9,"17 May 2016","Other gymnosperm",4,9,9,0.4444444444,71
+36,"CSO","ROW","3C","S","AM",9,"17 May 2016","NonCherry",9,9,9,1,71
+36,"CSO","ROW","3C","S","PM",15,"17 May 2016","Other angiosperm",4,4,4,1,72
+36,"CSO","ROW","3C","S","PM",15,"17 May 2016","Cherry",0,4,4,0,72
+36,"CSO","ROW","3C","S","PM",15,"17 May 2016","Other gymnosperm",0,4,4,0,72
+36,"CSO","ROW","3C","S","PM",15,"17 May 2016","NonCherry",4,4,4,1,72
+1,"HBA","CANOPY","1A","N","AM",9,"17 May 2016","Other angiosperm",25,38,25,0.6578947368,73
+1,"HBA","CANOPY","1A","N","AM",9,"17 May 2016","Cherry",13,38,25,0.3421052632,73
+1,"HBA","CANOPY","1A","N","AM",9,"17 May 2016","Other gymnosperm",0,38,25,0,73
+1,"HBA","CANOPY","1A","N","AM",9,"17 May 2016","NonCherry",25,38,25,0.6578947368,73
+1,"HBA","CANOPY","1A","N","PM",15,"17 May 2016","Other angiosperm",124,374,129,0.3315508021,74
+1,"HBA","CANOPY","1A","N","PM",15,"17 May 2016","Cherry",245,374,129,0.6550802139,74
+1,"HBA","CANOPY","1A","N","PM",15,"17 May 2016","Other gymnosperm",5,374,129,0.013368984,74
+1,"HBA","CANOPY","1A","N","PM",15,"17 May 2016","NonCherry",129,374,129,0.3449197861,74
+2,"HBA","CANOPY","1A","S","AM",9,"17 May 2016","Other angiosperm",38,118,38,0.3220338983,75
+2,"HBA","CANOPY","1A","S","AM",9,"17 May 2016","Cherry",80,118,38,0.6779661017,75
+2,"HBA","CANOPY","1A","S","AM",9,"17 May 2016","Other gymnosperm",0,118,38,0,75
+2,"HBA","CANOPY","1A","S","AM",9,"17 May 2016","NonCherry",38,118,38,0.3220338983,75
+2,"HBA","CANOPY","1A","S","PM",15,"17 May 2016","Other angiosperm",44,144,46,0.3055555556,76
+2,"HBA","CANOPY","1A","S","PM",15,"17 May 2016","Cherry",98,144,46,0.6805555556,76
+2,"HBA","CANOPY","1A","S","PM",15,"17 May 2016","Other gymnosperm",2,144,46,0.0138888889,76
+2,"HBA","CANOPY","1A","S","PM",15,"17 May 2016","NonCherry",46,144,46,0.3194444444,76
+5,"HBA","CANOPY","1B","N","AM",9,"17 May 2016","Other angiosperm",150,351,151,0.4273504274,77
+5,"HBA","CANOPY","1B","N","AM",9,"17 May 2016","Cherry",200,351,151,0.5698005698,77
+5,"HBA","CANOPY","1B","N","AM",9,"17 May 2016","Other gymnosperm",1,351,151,0.0028490028,77
+5,"HBA","CANOPY","1B","N","AM",9,"17 May 2016","NonCherry",151,351,151,0.4301994302,77
+5,"HBA","CANOPY","1B","N","PM",15,"17 May 2016","Other angiosperm",347,884,354,0.3925339367,78
+5,"HBA","CANOPY","1B","N","PM",15,"17 May 2016","Cherry",530,884,354,0.5995475113,78
+5,"HBA","CANOPY","1B","N","PM",15,"17 May 2016","Other gymnosperm",7,884,354,0.007918552,78
+5,"HBA","CANOPY","1B","N","PM",15,"17 May 2016","NonCherry",354,884,354,0.4004524887,78
+6,"HBA","CANOPY","1B","S","AM",9,"17 May 2016","Other angiosperm",142,338,142,0.4201183432,79
+6,"HBA","CANOPY","1B","S","AM",9,"17 May 2016","Cherry",196,338,142,0.5798816568,79
+6,"HBA","CANOPY","1B","S","AM",9,"17 May 2016","Other gymnosperm",0,338,142,0,79
+6,"HBA","CANOPY","1B","S","AM",9,"17 May 2016","NonCherry",142,338,142,0.4201183432,79
+6,"HBA","CANOPY","1B","S","PM",15,"17 May 2016","Other angiosperm",174,490,179,0.3551020408,80
+6,"HBA","CANOPY","1B","S","PM",15,"17 May 2016","Cherry",311,490,179,0.6346938776,80
+6,"HBA","CANOPY","1B","S","PM",15,"17 May 2016","Other gymnosperm",5,490,179,0.0102040816,80
+6,"HBA","CANOPY","1B","S","PM",15,"17 May 2016","NonCherry",179,490,179,0.3653061224,80
+9,"HBA","CANOPY","1C","N","AM",9,"17 May 2016","Other angiosperm",93,197,93,0.4720812183,81
+9,"HBA","CANOPY","1C","N","AM",9,"17 May 2016","Cherry",104,197,93,0.5279187817,81
+9,"HBA","CANOPY","1C","N","AM",9,"17 May 2016","Other gymnosperm",0,197,93,0,81
+9,"HBA","CANOPY","1C","N","AM",9,"17 May 2016","NonCherry",93,197,93,0.4720812183,81
+9,"HBA","CANOPY","1C","N","PM",15,"17 May 2016","Other angiosperm",169,446,170,0.3789237668,82
+9,"HBA","CANOPY","1C","N","PM",15,"17 May 2016","Cherry",276,446,170,0.6188340807,82
+9,"HBA","CANOPY","1C","N","PM",15,"17 May 2016","Other gymnosperm",1,446,170,0.0022421525,82
+9,"HBA","CANOPY","1C","N","PM",15,"17 May 2016","NonCherry",170,446,170,0.3811659193,82
+10,"HBA","CANOPY","1C","S","AM",9,"17 May 2016","Other angiosperm",189,589,189,0.3208828523,83
+10,"HBA","CANOPY","1C","S","AM",9,"17 May 2016","Cherry",400,589,189,0.6791171477,83
+10,"HBA","CANOPY","1C","S","AM",9,"17 May 2016","Other gymnosperm",0,589,189,0,83
+10,"HBA","CANOPY","1C","S","AM",9,"17 May 2016","NonCherry",189,589,189,0.3208828523,83
+10,"HBA","CANOPY","1C","S","PM",15,"17 May 2016","Other angiosperm",179,508,182,0.3523622047,84
+10,"HBA","CANOPY","1C","S","PM",15,"17 May 2016","Cherry",326,508,182,0.6417322835,84
+10,"HBA","CANOPY","1C","S","PM",15,"17 May 2016","Other gymnosperm",3,508,182,0.0059055118,84
+10,"HBA","CANOPY","1C","S","PM",15,"17 May 2016","NonCherry",182,508,182,0.3582677165,84
+13,"HBA","CANOPY","2A","N","AM",9,"17 May 2016","Other angiosperm",12,42,13,0.2857142857,85
+13,"HBA","CANOPY","2A","N","AM",9,"17 May 2016","Cherry",29,42,13,0.6904761905,85
+13,"HBA","CANOPY","2A","N","AM",9,"17 May 2016","Other gymnosperm",1,42,13,0.0238095238,85
+13,"HBA","CANOPY","2A","N","AM",9,"17 May 2016","NonCherry",13,42,13,0.3095238095,85
+13,"HBA","CANOPY","2A","N","PM",15,"17 May 2016","Other angiosperm","NA","NA","NA","NA",86
+13,"HBA","CANOPY","2A","N","PM",15,"17 May 2016","Cherry","NA","NA","NA","NA",86
+13,"HBA","CANOPY","2A","N","PM",15,"17 May 2016","Other gymnosperm","NA","NA","NA","NA",86
+13,"HBA","CANOPY","2A","N","PM",15,"17 May 2016","NonCherry","NA","NA","NA","NA",86
+14,"HBA","CANOPY","2A","S","AM",9,"17 May 2016","Other angiosperm",50,138,52,0.3623188406,87
+14,"HBA","CANOPY","2A","S","AM",9,"17 May 2016","Cherry",86,138,52,0.6231884058,87
+14,"HBA","CANOPY","2A","S","AM",9,"17 May 2016","Other gymnosperm",2,138,52,0.0144927536,87
+14,"HBA","CANOPY","2A","S","AM",9,"17 May 2016","NonCherry",52,138,52,0.3768115942,87
+14,"HBA","CANOPY","2A","S","PM",15,"17 May 2016","Other angiosperm",90,291,103,0.3092783505,88
+14,"HBA","CANOPY","2A","S","PM",15,"17 May 2016","Cherry",188,291,103,0.64604811,88
+14,"HBA","CANOPY","2A","S","PM",15,"17 May 2016","Other gymnosperm",13,291,103,0.0446735395,88
+14,"HBA","CANOPY","2A","S","PM",15,"17 May 2016","NonCherry",103,291,103,0.35395189,88
+17,"HBA","CANOPY","2B","N","AM",9,"17 May 2016","Other angiosperm",40,121,40,0.3305785124,89
+17,"HBA","CANOPY","2B","N","AM",9,"17 May 2016","Cherry",81,121,40,0.6694214876,89
+17,"HBA","CANOPY","2B","N","AM",9,"17 May 2016","Other gymnosperm",0,121,40,0,89
+17,"HBA","CANOPY","2B","N","AM",9,"17 May 2016","NonCherry",40,121,40,0.3305785124,89
+17,"HBA","CANOPY","2B","N","PM",15,"17 May 2016","Other angiosperm",2247,7471,2259,0.3007629501,90
+17,"HBA","CANOPY","2B","N","PM",15,"17 May 2016","Cherry",5212,7471,2259,0.6976308392,90
+17,"HBA","CANOPY","2B","N","PM",15,"17 May 2016","Other gymnosperm",12,7471,2259,0.0016062107,90
+17,"HBA","CANOPY","2B","N","PM",15,"17 May 2016","NonCherry",2259,7471,2259,0.3023691608,90
+18,"HBA","CANOPY","2B","S","AM",9,"17 May 2016","Other angiosperm",25,84,26,0.2976190476,91
+18,"HBA","CANOPY","2B","S","AM",9,"17 May 2016","Cherry",58,84,26,0.6904761905,91
+18,"HBA","CANOPY","2B","S","AM",9,"17 May 2016","Other gymnosperm",1,84,26,0.0119047619,91
+18,"HBA","CANOPY","2B","S","AM",9,"17 May 2016","NonCherry",26,84,26,0.3095238095,91
+18,"HBA","CANOPY","2B","S","PM",15,"17 May 2016","Other angiosperm",773,2212,778,0.3494575045,92
+18,"HBA","CANOPY","2B","S","PM",15,"17 May 2016","Cherry",1434,2212,778,0.6482820976,92
+18,"HBA","CANOPY","2B","S","PM",15,"17 May 2016","Other gymnosperm",5,2212,778,0.0022603978,92
+18,"HBA","CANOPY","2B","S","PM",15,"17 May 2016","NonCherry",778,2212,778,0.3517179024,92
+21,"HBA","CANOPY","2C","N","AM",9,"17 May 2016","Other angiosperm",7,20,8,0.35,93
+21,"HBA","CANOPY","2C","N","AM",9,"17 May 2016","Cherry",12,20,8,0.6,93
+21,"HBA","CANOPY","2C","N","AM",9,"17 May 2016","Other gymnosperm",1,20,8,0.05,93
+21,"HBA","CANOPY","2C","N","AM",9,"17 May 2016","NonCherry",8,20,8,0.4,93
+21,"HBA","CANOPY","2C","N","PM",15,"17 May 2016","Other angiosperm",48,197,49,0.2436548223,94
+21,"HBA","CANOPY","2C","N","PM",15,"17 May 2016","Cherry",148,197,49,0.7512690355,94
+21,"HBA","CANOPY","2C","N","PM",15,"17 May 2016","Other gymnosperm",1,197,49,0.0050761421,94
+21,"HBA","CANOPY","2C","N","PM",15,"17 May 2016","NonCherry",49,197,49,0.2487309645,94
+22,"HBA","CANOPY","2C","S","AM",9,"17 May 2016","Other angiosperm",35,92,37,0.3804347826,95
+22,"HBA","CANOPY","2C","S","AM",9,"17 May 2016","Cherry",55,92,37,0.597826087,95
+22,"HBA","CANOPY","2C","S","AM",9,"17 May 2016","Other gymnosperm",2,92,37,0.0217391304,95
+22,"HBA","CANOPY","2C","S","AM",9,"17 May 2016","NonCherry",37,92,37,0.402173913,95
+22,"HBA","CANOPY","2C","S","PM",15,"17 May 2016","Other angiosperm",263,958,270,0.2745302714,96
+22,"HBA","CANOPY","2C","S","PM",15,"17 May 2016","Cherry",688,958,270,0.7181628392,96
+22,"HBA","CANOPY","2C","S","PM",15,"17 May 2016","Other gymnosperm",7,958,270,0.0073068894,96
+22,"HBA","CANOPY","2C","S","PM",15,"17 May 2016","NonCherry",270,958,270,0.2818371608,96
+25,"HBA","CANOPY","3A","N","AM",9,"17 May 2016","Other angiosperm",31,50,31,0.62,97
+25,"HBA","CANOPY","3A","N","AM",9,"17 May 2016","Cherry",19,50,31,0.38,97
+25,"HBA","CANOPY","3A","N","AM",9,"17 May 2016","Other gymnosperm",0,50,31,0,97
+25,"HBA","CANOPY","3A","N","AM",9,"17 May 2016","NonCherry",31,50,31,0.62,97
+25,"HBA","CANOPY","3A","N","PM",15,"17 May 2016","Other angiosperm",273,922,278,0.2960954447,98
+25,"HBA","CANOPY","3A","N","PM",15,"17 May 2016","Cherry",644,922,278,0.6984815618,98
+25,"HBA","CANOPY","3A","N","PM",15,"17 May 2016","Other gymnosperm",5,922,278,0.0054229935,98
+25,"HBA","CANOPY","3A","N","PM",15,"17 May 2016","NonCherry",278,922,278,0.3015184382,98
+26,"HBA","CANOPY","3A","S","AM",9,"17 May 2016","Other angiosperm",68,146,68,0.4657534247,99
+26,"HBA","CANOPY","3A","S","AM",9,"17 May 2016","Cherry",78,146,68,0.5342465753,99
+26,"HBA","CANOPY","3A","S","AM",9,"17 May 2016","Other gymnosperm",0,146,68,0,99
+26,"HBA","CANOPY","3A","S","AM",9,"17 May 2016","NonCherry",68,146,68,0.4657534247,99
+26,"HBA","CANOPY","3A","S","PM",15,"17 May 2016","Other angiosperm",367,1382,370,0.2655571635,100
+26,"HBA","CANOPY","3A","S","PM",15,"17 May 2016","Cherry",1012,1382,370,0.7322720695,100
+26,"HBA","CANOPY","3A","S","PM",15,"17 May 2016","Other gymnosperm",3,1382,370,0.002170767,100
+26,"HBA","CANOPY","3A","S","PM",15,"17 May 2016","NonCherry",370,1382,370,0.2677279305,100
+29,"HBA","CANOPY","3B","N","AM",9,"17 May 2016","Other angiosperm",37,79,37,0.4683544304,101
+29,"HBA","CANOPY","3B","N","AM",9,"17 May 2016","Cherry",42,79,37,0.5316455696,101
+29,"HBA","CANOPY","3B","N","AM",9,"17 May 2016","Other gymnosperm",0,79,37,0,101
+29,"HBA","CANOPY","3B","N","AM",9,"17 May 2016","NonCherry",37,79,37,0.4683544304,101
+29,"HBA","CANOPY","3B","N","PM",15,"17 May 2016","Other angiosperm",177,675,182,0.2622222222,102
+29,"HBA","CANOPY","3B","N","PM",15,"17 May 2016","Cherry",493,675,182,0.7303703704,102
+29,"HBA","CANOPY","3B","N","PM",15,"17 May 2016","Other gymnosperm",5,675,182,0.0074074074,102
+29,"HBA","CANOPY","3B","N","PM",15,"17 May 2016","NonCherry",182,675,182,0.2696296296,102
+30,"HBA","CANOPY","3B","S","AM",9,"17 May 2016","Other angiosperm",110,242,112,0.4545454545,103
+30,"HBA","CANOPY","3B","S","AM",9,"17 May 2016","Cherry",130,242,112,0.5371900826,103
+30,"HBA","CANOPY","3B","S","AM",9,"17 May 2016","Other gymnosperm",2,242,112,0.0082644628,103
+30,"HBA","CANOPY","3B","S","AM",9,"17 May 2016","NonCherry",112,242,112,0.4628099174,103
+30,"HBA","CANOPY","3B","S","PM",15,"17 May 2016","Other angiosperm",77,260,81,0.2961538462,104
+30,"HBA","CANOPY","3B","S","PM",15,"17 May 2016","Cherry",179,260,81,0.6884615385,104
+30,"HBA","CANOPY","3B","S","PM",15,"17 May 2016","Other gymnosperm",4,260,81,0.0153846154,104
+30,"HBA","CANOPY","3B","S","PM",15,"17 May 2016","NonCherry",81,260,81,0.3115384615,104
+33,"HBA","CANOPY","3C","N","AM",9,"17 May 2016","Other angiosperm",3167,6398,3171,0.494998437,105
+33,"HBA","CANOPY","3C","N","AM",9,"17 May 2016","Cherry",3227,6398,3171,0.5043763676,105
+33,"HBA","CANOPY","3C","N","AM",9,"17 May 2016","Other gymnosperm",4,6398,3171,0.0006251954,105
+33,"HBA","CANOPY","3C","N","AM",9,"17 May 2016","NonCherry",3171,6398,3171,0.4956236324,105
+33,"HBA","CANOPY","3C","N","PM",15,"17 May 2016","Other angiosperm",207,576,207,0.359375,106
+33,"HBA","CANOPY","3C","N","PM",15,"17 May 2016","Cherry",369,576,207,0.640625,106
+33,"HBA","CANOPY","3C","N","PM",15,"17 May 2016","Other gymnosperm",0,576,207,0,106
+33,"HBA","CANOPY","3C","N","PM",15,"17 May 2016","NonCherry",207,576,207,0.359375,106
+34,"HBA","CANOPY","3C","S","AM",9,"17 May 2016","Other angiosperm",223,483,224,0.4616977226,107
+34,"HBA","CANOPY","3C","S","AM",9,"17 May 2016","Cherry",259,483,224,0.5362318841,107
+34,"HBA","CANOPY","3C","S","AM",9,"17 May 2016","Other gymnosperm",1,483,224,0.0020703934,107
+34,"HBA","CANOPY","3C","S","AM",9,"17 May 2016","NonCherry",224,483,224,0.4637681159,107
+34,"HBA","CANOPY","3C","S","PM",15,"17 May 2016","Other angiosperm",291,679,296,0.4285714286,108
+34,"HBA","CANOPY","3C","S","PM",15,"17 May 2016","Cherry",383,679,296,0.5640648012,108
+34,"HBA","CANOPY","3C","S","PM",15,"17 May 2016","Other gymnosperm",5,679,296,0.0073637703,108
+34,"HBA","CANOPY","3C","S","PM",15,"17 May 2016","NonCherry",296,679,296,0.4359351988,108
+3,"HBA","ROW","1A","N","AM",9,"17 May 2016","Other angiosperm",24,55,28,0.4363636364,109
+3,"HBA","ROW","1A","N","AM",9,"17 May 2016","Cherry",27,55,28,0.4909090909,109
+3,"HBA","ROW","1A","N","AM",9,"17 May 2016","Other gymnosperm",4,55,28,0.0727272727,109
+3,"HBA","ROW","1A","N","AM",9,"17 May 2016","NonCherry",28,55,28,0.5090909091,109
+3,"HBA","ROW","1A","N","PM",15,"17 May 2016","Other angiosperm",54,121,56,0.4462809917,110
+3,"HBA","ROW","1A","N","PM",15,"17 May 2016","Cherry",65,121,56,0.5371900826,110
+3,"HBA","ROW","1A","N","PM",15,"17 May 2016","Other gymnosperm",2,121,56,0.0165289256,110
+3,"HBA","ROW","1A","N","PM",15,"17 May 2016","NonCherry",56,121,56,0.4628099174,110
+4,"HBA","ROW","1A","S","AM",9,"17 May 2016","Other angiosperm",82,307,85,0.2671009772,111
+4,"HBA","ROW","1A","S","AM",9,"17 May 2016","Cherry",222,307,85,0.7231270358,111
+4,"HBA","ROW","1A","S","AM",9,"17 May 2016","Other gymnosperm",3,307,85,0.009771987,111
+4,"HBA","ROW","1A","S","AM",9,"17 May 2016","NonCherry",85,307,85,0.2768729642,111
+4,"HBA","ROW","1A","S","PM",15,"17 May 2016","Other angiosperm",65,145,67,0.4482758621,112
+4,"HBA","ROW","1A","S","PM",15,"17 May 2016","Cherry",78,145,67,0.5379310345,112
+4,"HBA","ROW","1A","S","PM",15,"17 May 2016","Other gymnosperm",2,145,67,0.0137931034,112
+4,"HBA","ROW","1A","S","PM",15,"17 May 2016","NonCherry",67,145,67,0.4620689655,112
+7,"HBA","ROW","1B","N","AM",9,"17 May 2016","Other angiosperm",20,36,20,0.5555555556,113
+7,"HBA","ROW","1B","N","AM",9,"17 May 2016","Cherry",16,36,20,0.4444444444,113
+7,"HBA","ROW","1B","N","AM",9,"17 May 2016","Other gymnosperm",0,36,20,0,113
+7,"HBA","ROW","1B","N","AM",9,"17 May 2016","NonCherry",20,36,20,0.5555555556,113
+7,"HBA","ROW","1B","N","PM",15,"17 May 2016","Other angiosperm",56,176,59,0.3181818182,114
+7,"HBA","ROW","1B","N","PM",15,"17 May 2016","Cherry",117,176,59,0.6647727273,114
+7,"HBA","ROW","1B","N","PM",15,"17 May 2016","Other gymnosperm",3,176,59,0.0170454545,114
+7,"HBA","ROW","1B","N","PM",15,"17 May 2016","NonCherry",59,176,59,0.3352272727,114
+8,"HBA","ROW","1B","S","AM",9,"17 May 2016","Other angiosperm",36,63,38,0.5714285714,115
+8,"HBA","ROW","1B","S","AM",9,"17 May 2016","Cherry",25,63,38,0.3968253968,115
+8,"HBA","ROW","1B","S","AM",9,"17 May 2016","Other gymnosperm",2,63,38,0.0317460317,115
+8,"HBA","ROW","1B","S","AM",9,"17 May 2016","NonCherry",38,63,38,0.6031746032,115
+8,"HBA","ROW","1B","S","PM",15,"17 May 2016","Other angiosperm",71,189,78,0.3756613757,116
+8,"HBA","ROW","1B","S","PM",15,"17 May 2016","Cherry",111,189,78,0.5873015873,116
+8,"HBA","ROW","1B","S","PM",15,"17 May 2016","Other gymnosperm",7,189,78,0.037037037,116
+8,"HBA","ROW","1B","S","PM",15,"17 May 2016","NonCherry",78,189,78,0.4126984127,116
+11,"HBA","ROW","1C","N","AM",9,"17 May 2016","Other angiosperm",40,93,41,0.4301075269,117
+11,"HBA","ROW","1C","N","AM",9,"17 May 2016","Cherry",52,93,41,0.5591397849,117
+11,"HBA","ROW","1C","N","AM",9,"17 May 2016","Other gymnosperm",1,93,41,0.0107526882,117
+11,"HBA","ROW","1C","N","AM",9,"17 May 2016","NonCherry",41,93,41,0.4408602151,117
+11,"HBA","ROW","1C","N","PM",15,"17 May 2016","Other angiosperm",47,143,49,0.3286713287,118
+11,"HBA","ROW","1C","N","PM",15,"17 May 2016","Cherry",94,143,49,0.6573426573,118
+11,"HBA","ROW","1C","N","PM",15,"17 May 2016","Other gymnosperm",2,143,49,0.013986014,118
+11,"HBA","ROW","1C","N","PM",15,"17 May 2016","NonCherry",49,143,49,0.3426573427,118
+12,"HBA","ROW","1C","S","AM",9,"17 May 2016","Other angiosperm",29,99,29,0.2929292929,119
+12,"HBA","ROW","1C","S","AM",9,"17 May 2016","Cherry",70,99,29,0.7070707071,119
+12,"HBA","ROW","1C","S","AM",9,"17 May 2016","Other gymnosperm",0,99,29,0,119
+12,"HBA","ROW","1C","S","AM",9,"17 May 2016","NonCherry",29,99,29,0.2929292929,119
+12,"HBA","ROW","1C","S","PM",15,"17 May 2016","Other angiosperm",98,303,102,0.3234323432,120
+12,"HBA","ROW","1C","S","PM",15,"17 May 2016","Cherry",201,303,102,0.6633663366,120
+12,"HBA","ROW","1C","S","PM",15,"17 May 2016","Other gymnosperm",4,303,102,0.0132013201,120
+12,"HBA","ROW","1C","S","PM",15,"17 May 2016","NonCherry",102,303,102,0.3366336634,120
+15,"HBA","ROW","2A","N","AM",9,"17 May 2016","Other angiosperm",30,83,31,0.3614457831,121
+15,"HBA","ROW","2A","N","AM",9,"17 May 2016","Cherry",52,83,31,0.6265060241,121
+15,"HBA","ROW","2A","N","AM",9,"17 May 2016","Other gymnosperm",1,83,31,0.0120481928,121
+15,"HBA","ROW","2A","N","AM",9,"17 May 2016","NonCherry",31,83,31,0.3734939759,121
+15,"HBA","ROW","2A","N","PM",15,"17 May 2016","Other angiosperm",31,110,37,0.2818181818,122
+15,"HBA","ROW","2A","N","PM",15,"17 May 2016","Cherry",73,110,37,0.6636363636,122
+15,"HBA","ROW","2A","N","PM",15,"17 May 2016","Other gymnosperm",6,110,37,0.0545454545,122
+15,"HBA","ROW","2A","N","PM",15,"17 May 2016","NonCherry",37,110,37,0.3363636364,122
+16,"HBA","ROW","2A","S","AM",9,"17 May 2016","Other angiosperm",69,180,72,0.3833333333,123
+16,"HBA","ROW","2A","S","AM",9,"17 May 2016","Cherry",108,180,72,0.6,123
+16,"HBA","ROW","2A","S","AM",9,"17 May 2016","Other gymnosperm",3,180,72,0.0166666667,123
+16,"HBA","ROW","2A","S","AM",9,"17 May 2016","NonCherry",72,180,72,0.4,123
+16,"HBA","ROW","2A","S","PM",15,"17 May 2016","Other angiosperm",69,189,73,0.3650793651,124
+16,"HBA","ROW","2A","S","PM",15,"17 May 2016","Cherry",116,189,73,0.6137566138,124
+16,"HBA","ROW","2A","S","PM",15,"17 May 2016","Other gymnosperm",4,189,73,0.0211640212,124
+16,"HBA","ROW","2A","S","PM",15,"17 May 2016","NonCherry",73,189,73,0.3862433862,124
+19,"HBA","ROW","2B","N","AM",9,"17 May 2016","Other angiosperm",27,55,29,0.4909090909,125
+19,"HBA","ROW","2B","N","AM",9,"17 May 2016","Cherry",26,55,29,0.4727272727,125
+19,"HBA","ROW","2B","N","AM",9,"17 May 2016","Other gymnosperm",2,55,29,0.0363636364,125
+19,"HBA","ROW","2B","N","AM",9,"17 May 2016","NonCherry",29,55,29,0.5272727273,125
+19,"HBA","ROW","2B","N","PM",15,"17 May 2016","Other angiosperm",61,200,67,0.305,126
+19,"HBA","ROW","2B","N","PM",15,"17 May 2016","Cherry",133,200,67,0.665,126
+19,"HBA","ROW","2B","N","PM",15,"17 May 2016","Other gymnosperm",6,200,67,0.03,126
+19,"HBA","ROW","2B","N","PM",15,"17 May 2016","NonCherry",67,200,67,0.335,126
+20,"HBA","ROW","2B","S","AM",9,"17 May 2016","Other angiosperm",79,196,79,0.4030612245,127
+20,"HBA","ROW","2B","S","AM",9,"17 May 2016","Cherry",117,196,79,0.5969387755,127
+20,"HBA","ROW","2B","S","AM",9,"17 May 2016","Other gymnosperm",0,196,79,0,127
+20,"HBA","ROW","2B","S","AM",9,"17 May 2016","NonCherry",79,196,79,0.4030612245,127
+20,"HBA","ROW","2B","S","PM",15,"17 May 2016","Other angiosperm",74,201,81,0.368159204,128
+20,"HBA","ROW","2B","S","PM",15,"17 May 2016","Cherry",120,201,81,0.5970149254,128
+20,"HBA","ROW","2B","S","PM",15,"17 May 2016","Other gymnosperm",7,201,81,0.0348258706,128
+20,"HBA","ROW","2B","S","PM",15,"17 May 2016","NonCherry",81,201,81,0.4029850746,128
+23,"HBA","ROW","2C","N","AM",9,"17 May 2016","Other angiosperm",18,40,19,0.45,129
+23,"HBA","ROW","2C","N","AM",9,"17 May 2016","Cherry",21,40,19,0.525,129
+23,"HBA","ROW","2C","N","AM",9,"17 May 2016","Other gymnosperm",1,40,19,0.025,129
+23,"HBA","ROW","2C","N","AM",9,"17 May 2016","NonCherry",19,40,19,0.475,129
+23,"HBA","ROW","2C","N","PM",15,"17 May 2016","Other angiosperm",44,142,46,0.3098591549,130
+23,"HBA","ROW","2C","N","PM",15,"17 May 2016","Cherry",96,142,46,0.676056338,130
+23,"HBA","ROW","2C","N","PM",15,"17 May 2016","Other gymnosperm",2,142,46,0.014084507,130
+23,"HBA","ROW","2C","N","PM",15,"17 May 2016","NonCherry",46,142,46,0.323943662,130
+24,"HBA","ROW","2C","S","AM",9,"17 May 2016","Other angiosperm",43,147,43,0.2925170068,131
+24,"HBA","ROW","2C","S","AM",9,"17 May 2016","Cherry",104,147,43,0.7074829932,131
+24,"HBA","ROW","2C","S","AM",9,"17 May 2016","Other gymnosperm",0,147,43,0,131
+24,"HBA","ROW","2C","S","AM",9,"17 May 2016","NonCherry",43,147,43,0.2925170068,131
+24,"HBA","ROW","2C","S","PM",15,"17 May 2016","Other angiosperm",105,349,115,0.3008595989,132
+24,"HBA","ROW","2C","S","PM",15,"17 May 2016","Cherry",234,349,115,0.670487106,132
+24,"HBA","ROW","2C","S","PM",15,"17 May 2016","Other gymnosperm",10,349,115,0.0286532951,132
+24,"HBA","ROW","2C","S","PM",15,"17 May 2016","NonCherry",115,349,115,0.329512894,132
+27,"HBA","ROW","3A","N","AM",9,"17 May 2016","Other angiosperm",20,63,22,0.3174603175,133
+27,"HBA","ROW","3A","N","AM",9,"17 May 2016","Cherry",41,63,22,0.6507936508,133
+27,"HBA","ROW","3A","N","AM",9,"17 May 2016","Other gymnosperm",2,63,22,0.0317460317,133
+27,"HBA","ROW","3A","N","AM",9,"17 May 2016","NonCherry",22,63,22,0.3492063492,133
+27,"HBA","ROW","3A","N","PM",15,"17 May 2016","Other angiosperm",42,133,44,0.3157894737,134
+27,"HBA","ROW","3A","N","PM",15,"17 May 2016","Cherry",89,133,44,0.6691729323,134
+27,"HBA","ROW","3A","N","PM",15,"17 May 2016","Other gymnosperm",2,133,44,0.015037594,134
+27,"HBA","ROW","3A","N","PM",15,"17 May 2016","NonCherry",44,133,44,0.3308270677,134
+28,"HBA","ROW","3A","S","AM",9,"17 May 2016","Other angiosperm",86,234,92,0.3675213675,135
+28,"HBA","ROW","3A","S","AM",9,"17 May 2016","Cherry",142,234,92,0.6068376068,135
+28,"HBA","ROW","3A","S","AM",9,"17 May 2016","Other gymnosperm",6,234,92,0.0256410256,135
+28,"HBA","ROW","3A","S","AM",9,"17 May 2016","NonCherry",92,234,92,0.3931623932,135
+28,"HBA","ROW","3A","S","PM",15,"17 May 2016","Other angiosperm",43,138,46,0.3115942029,136
+28,"HBA","ROW","3A","S","PM",15,"17 May 2016","Cherry",92,138,46,0.6666666667,136
+28,"HBA","ROW","3A","S","PM",15,"17 May 2016","Other gymnosperm",3,138,46,0.0217391304,136
+28,"HBA","ROW","3A","S","PM",15,"17 May 2016","NonCherry",46,138,46,0.3333333333,136
+31,"HBA","ROW","3B","N","AM",9,"17 May 2016","Other angiosperm",49,108,50,0.4537037037,137
+31,"HBA","ROW","3B","N","AM",9,"17 May 2016","Cherry",58,108,50,0.537037037,137
+31,"HBA","ROW","3B","N","AM",9,"17 May 2016","Other gymnosperm",1,108,50,0.0092592593,137
+31,"HBA","ROW","3B","N","AM",9,"17 May 2016","NonCherry",50,108,50,0.462962963,137
+31,"HBA","ROW","3B","N","PM",15,"17 May 2016","Other angiosperm",48,179,48,0.2681564246,138
+31,"HBA","ROW","3B","N","PM",15,"17 May 2016","Cherry",131,179,48,0.7318435754,138
+31,"HBA","ROW","3B","N","PM",15,"17 May 2016","Other gymnosperm",0,179,48,0,138
+31,"HBA","ROW","3B","N","PM",15,"17 May 2016","NonCherry",48,179,48,0.2681564246,138
+32,"HBA","ROW","3B","S","AM",9,"17 May 2016","Other angiosperm",148,305,151,0.4852459016,139
+32,"HBA","ROW","3B","S","AM",9,"17 May 2016","Cherry",154,305,151,0.5049180328,139
+32,"HBA","ROW","3B","S","AM",9,"17 May 2016","Other gymnosperm",3,305,151,0.0098360656,139
+32,"HBA","ROW","3B","S","AM",9,"17 May 2016","NonCherry",151,305,151,0.4950819672,139
+32,"HBA","ROW","3B","S","PM",15,"17 May 2016","Other angiosperm",51,156,53,0.3269230769,140
+32,"HBA","ROW","3B","S","PM",15,"17 May 2016","Cherry",103,156,53,0.6602564103,140
+32,"HBA","ROW","3B","S","PM",15,"17 May 2016","Other gymnosperm",2,156,53,0.0128205128,140
+32,"HBA","ROW","3B","S","PM",15,"17 May 2016","NonCherry",53,156,53,0.3397435897,140
+35,"HBA","ROW","3C","N","AM",9,"17 May 2016","Other angiosperm",53,118,53,0.4491525424,141
+35,"HBA","ROW","3C","N","AM",9,"17 May 2016","Cherry",65,118,53,0.5508474576,141
+35,"HBA","ROW","3C","N","AM",9,"17 May 2016","Other gymnosperm",0,118,53,0,141
+35,"HBA","ROW","3C","N","AM",9,"17 May 2016","NonCherry",53,118,53,0.4491525424,141
+35,"HBA","ROW","3C","N","PM",15,"17 May 2016","Other angiosperm",83,225,88,0.3688888889,142
+35,"HBA","ROW","3C","N","PM",15,"17 May 2016","Cherry",137,225,88,0.6088888889,142
+35,"HBA","ROW","3C","N","PM",15,"17 May 2016","Other gymnosperm",5,225,88,0.0222222222,142
+35,"HBA","ROW","3C","N","PM",15,"17 May 2016","NonCherry",88,225,88,0.3911111111,142
+36,"HBA","ROW","3C","S","AM",9,"17 May 2016","Other angiosperm",132,171,135,0.7719298246,143
+36,"HBA","ROW","3C","S","AM",9,"17 May 2016","Cherry",36,171,135,0.2105263158,143
+36,"HBA","ROW","3C","S","AM",9,"17 May 2016","Other gymnosperm",3,171,135,0.0175438596,143
+36,"HBA","ROW","3C","S","AM",9,"17 May 2016","NonCherry",135,171,135,0.7894736842,143
+36,"HBA","ROW","3C","S","PM",15,"17 May 2016","Other angiosperm",96,226,99,0.4247787611,144
+36,"HBA","ROW","3C","S","PM",15,"17 May 2016","Cherry",127,226,99,0.5619469027,144
+36,"HBA","ROW","3C","S","PM",15,"17 May 2016","Other gymnosperm",3,226,99,0.0132743363,144
+36,"HBA","ROW","3C","S","PM",15,"17 May 2016","NonCherry",99,226,99,0.4380530973,144
