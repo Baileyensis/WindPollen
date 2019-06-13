@@ -1,0 +1,22 @@
+# 3. Wind pollen
+
+W <- read.csv("WindPollen2.csv", header = T)
+W <- transform(W, Date = as.Date(Date, "%d %B %Y"))
+str(W)
+
+# Removing other pollen types from dataset because I only want Cherry counts in "Count"
+W <- subset(W, PollenType != "Other gymnosperm")
+W <- subset(W, PollenType != "Other angiosperm")
+W <- subset(W, PollenType != "NonCherry")
+
+library(gdata)
+W <- drop.levels(W)
+levels(W$PollenType)
+
+h.mary <- glm(Count ~ Interval + Orchard + Location + 
+                Row + Direction + offset(log(TotalPollen)) + 
+                                           offset(Interval.Duration),
+              data = W,
+              family = quasipoisson)
+summary(h.mary) # My data are oversdispersed. Too many variables for too few observations?
+plot(h.mary)
