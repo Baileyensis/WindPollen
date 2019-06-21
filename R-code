@@ -69,7 +69,7 @@ W2 <- drop.levels(W2)
 levels(W2$PollenType)
 
 library(mgcv)
-# creating a neighbourhood
+# creating a neighbourhood (from "https://www.fromthebottomoftheheap.net/2017/10/19/first-steps-with-mrf-smooths/")
 nbC.int <- list("1A" = c(2,4,5),
                 "2A" = c(1,3,4,5,6),
                 "3A" = c(2,5,6),
@@ -99,7 +99,7 @@ mrf2 <- gam(Count ~ Interval + Orchard + Orchard:Interval + Location +
             method = 'REML', 
             control = ctrl,
             family = poisson()) 
-summary(mrf2) # AIC = 722.3956 but is comparing AIC from glms to glm.nb to gam like comparing apples and oranges?
+summary(mrf2) 
 AIC(mrf2)
 
 # Is there a better fit with a negative binomial error distribution?
@@ -108,12 +108,13 @@ mrf3 <- gam(Count ~ Interval + Orchard + Orchard:Interval + Location +
             data = W2,
             method = 'REML',
             control = ctrl,
-            family = nb())
-summary(mrf3) # AIC = 723.106
+            family = nb()) # how can I find out what theta is and add it and use family = negbin instead?
+summary(mrf3) 
 AIC(mrf3)
 
 # The outputs for the mrf models tell me how much of the deviance is explained by the model and the values are 
-# pretty high (87.5%). That looks pretty good to me, but ow can I compare the mrf gam to the glms above?
+# pretty high (87.5%). That looks pretty good to me, but how can I compare the mrf gam to the glms above in the same way? 
+# Can I even??
 
 #rootograms
 root.mrf2 <- rootogram(mrf2, style = "hanging", plot = F)
@@ -126,15 +127,27 @@ plot_grid(autoplot(root2) + ylims,
 # Hmmm, rootogram for mrf models only differ for the smaller counts (zeros, ones, twos) and 
 # are poorer at predicting those count bins
 
-AIC(h.mary0, h.mary1, h.mary2, mrf2, mrf3) # I think this is not an appropriate way to compare these models....
+AIC(h.mary0, h.mary1, h.mary2, mrf2, mrf3) # I think this is not an appropriate way to compare these models, are their AIC
+# values comperable? I can't find where I read NOT to do this, but I seem to remember that I shouldn't. Isn't comparing AIC 
+# from glms to glm.nb to gam like comparing apples and oranges?
 
 #               df      AIC
 # h.mary0 13.00000 823.1501
 # h.mary1 22.00000 716.4730
-# h.mary2 23.00000 714.9577
+# h.mary2 23.00000 714.9577 <--- Lowest AIC
 # mrf2    13.12462 771.5126
 # mrf3    13.02501 770.9616
 
-anova.gam(mrf2, mrf3)
+anova(h.mary0, h.mary1, h.mary2, mrf2, mrf3)
 
-#
+#   Resid. Df Resid. Dev        Df Deviance
+# 1    118.00     279.36                   
+# 2    109.00     154.68  9.000000  124.677
+# 3    109.00     129.30  0.000000   25.382 <--- lowest Residual Deviance
+# 4    113.36     167.36 -4.362170  -38.067
+# 5    113.40     121.56 -0.036665   45.798
+
+
+
+
+
