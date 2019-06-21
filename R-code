@@ -1,22 +1,140 @@
 # 3. Wind pollen
 
 W <- read.csv("WindPollen2.csv", header = T)
-W <- transform(W, Date = as.Date(Date, "%d %B %Y"))
+W <- na.omit(W)
 str(W)
 
-# Removing other pollen types from dataset because I only want Cherry counts in "Count"
+# Removing non-Cherry pollen types from dataset because they are not a part of my question, I am only interested in Cherry
 W <- subset(W, PollenType != "Other gymnosperm")
 W <- subset(W, PollenType != "Other angiosperm")
-W <- subset(W, PollenType != "NonCherry")
-
 library(gdata)
 W <- drop.levels(W)
 levels(W$PollenType)
 
-h.mary <- glm(Count ~ Interval + Orchard + Location + 
-                Row + Direction + offset(log(TotalPollen)) + 
-                                           offset(Interval.Duration),
-              data = W,
-              family = quasipoisson)
-summary(h.mary) # My data are oversdispersed. Too many variables for too few observations?
-plot(h.mary)
+# model with no interaction terms
+h.mary0 <- glm(Count ~ Interval + Orchard + Location + Row + Direction + offset(log(TotalPollen)),
+               data = W,
+               family = poisson)
+summary(h.mary0)
+
+# model with 2-way interactions with Orchard
+h.mary1 <- glm(Count ~ Interval + Orchard + Orchard:Interval + Location + 
+                 Orchard:Location + Row + Orchard:Row + offset(log(TotalPollen)),
+               data = W,
+               family = poisson)
+summary(h.mary1)
+drop1(h.mary1) # dropped Orchard*Direction and Direction from model AIC = 716.47
+
+# negative binomial model with same terms as model h.mary1 above
+library("MASS")
+h.mary2 <- glm.nb(Count ~ Interval + Orchard + Orchard:Interval + Location + 
+                    Orchard:Location + Row + Orchard:Row + offset(log(TotalPollen)),
+                  data = W)
+summary(h.mary2)
+
+AIC(h.mary0, h.mary1, h.mary2)
+
+#         df      AIC
+# h.mary0 13 823.1501 <--- glm w/o interactions
+# h.mary1 22 716.4730 <--- glm with interaction terms
+# h.mary2 23 714.9577 <--- negative binomial model
+
+# creating rootograms to assess how well these models predict counts
+library("countreg")
+library("cowplot")
+ylims <- ylim(-1, 7)  # common scale for comparison
+root0 <- rootogram(h.mary0, style = "hanging", plot = F)
+root1 <- rootogram(h.mary1, style = "hanging", plot = F)
+root2 <- rootogram(h.mary2, style = "hanging", plot = F)
+plot_grid(autoplot(root0) + ylims, 
+          autoplot(root1) + ylims, autoplot(root2) + ylims,
+          ncol = 3, labels = "auto")
+ # really not sure what to think about these rootograms, all three models are overpredicting most counts, although the latter
+ # two (b & c) seem to deal better with the zeros.
+
+# 19 June 2019
+# Trying out Markov Random Field to deal with spatial non-independence in Row samples and
+# poor fit of glms above
+
+# new data set with Rows labelled different in each orchard
+W2 <- read.csv("WindPollen3.csv", header = T)
+W2 <- na.omit(W2)
+str(W2)
+
+# Removing non-Cherry pollen types from dataset because they are not a part of my question, I am only interested in Cherry
+W2 <- subset(W2, PollenType != "Other gymnosperm")
+W2 <- subset(W2, PollenType != "Other angiosperm")
+library(gdata)
+W2 <- drop.levels(W2)
+levels(W2$PollenType)
+
+library(mgcv)
+# creating a neighbourhood
+nbC.int <- list("1A" = c(2,4,5),
+                "2A" = c(1,3,4,5,6),
+                "3A" = c(2,5,6),
+                "1B" = c(1,2,5,7,8),
+                "2B" = c(1,2,3,4,6,7,8,9),
+                "3B" = c(2,3,5,8,9),
+                "1C" = c(4,5,8),
+                "2C" = c(4,5,6,7,9),
+                "3C" = c(5,6,8),
+                "4A" = c(11,13,14),
+                "5A" = c(10,12,13,14,15),
+                "6A" = c(11,14,15),
+                "4B" = c(10,11,14,16,17),
+                "5B" = c(10,11,12,13,15,16,17,18),
+                "6B" = c(11,12,14,17,18),
+                "4C" = c(13,14,17),
+                "5C" = c(13,14,15,16,18),
+                "6C" = c(14,15,17))
+names(nbC.int) <- levels(W2$Row)
+ctrl <- gam.control(nthreads = 6) # use 6 parallel threads, reduce if fewer physical CPU cores
+
+# Model with interaction terms
+mrf2 <- gam(Count ~ Interval + Orchard + Orchard:Interval + Location + 
+              Orchard:Location + s(Row, bs = 'mrf', xt = list(nbC.int = nbC.int)) + # FYI, s() is the smooth function. 
+              offset(log(TotalPollen)),
+            data = W2,
+            method = 'REML', 
+            control = ctrl,
+            family = poisson()) 
+summary(mrf2) # AIC = 722.3956 but is comparing AIC from glms to glm.nb to gam like comparing apples and oranges?
+AIC(mrf2)
+
+# Is there a better fit with a negative binomial error distribution?
+mrf3 <- gam(Count ~ Interval + Orchard + Orchard:Interval + Location + 
+              Orchard:Location + s(Row, bs = 'mrf', xt = list(nbC.int = nbC.int)) + offset(log(TotalPollen)),
+            data = W2,
+            method = 'REML',
+            control = ctrl,
+            family = nb())
+summary(mrf3) # AIC = 723.106
+AIC(mrf3)
+
+# The outputs for the mrf models tell me how much of the deviance is explained by the model and the values are 
+# pretty high (87.5%). That looks pretty good to me, but ow can I compare the mrf gam to the glms above?
+
+#rootograms
+root.mrf2 <- rootogram(mrf2, style = "hanging", plot = F)
+root.mrf3 <- rootogram(mrf3, style = "hanging", plot = F)
+plot_grid(autoplot(root2) + ylims, 
+          autoplot(root.mrf2) + ylims,
+          autoplot(root.mrf3) + ylims,
+          ncol = 3, labels = "auto")
+
+# Hmmm, rootogram for mrf models only differ for the smaller counts (zeros, ones, twos) and 
+# are poorer at predicting those count bins
+
+AIC(h.mary0, h.mary1, h.mary2, mrf2, mrf3) # I think this is not an appropriate way to compare these models....
+
+#               df      AIC
+# h.mary0 13.00000 823.1501
+# h.mary1 22.00000 716.4730
+# h.mary2 23.00000 714.9577
+# mrf2    13.12462 771.5126
+# mrf3    13.02501 770.9616
+
+anova.gam(mrf2, mrf3)
+
+#
