@@ -3,6 +3,7 @@
 I'm trying to figure out how to model pollen dispersed on the wind. 
 
 My data:
+
 	'data.frame':	393 obs. of  10 variables:
  	$ Orchard          : Factor w/ 2 levels "CSO","HBA": 1 1 1 1 1 1 1 1 1 1 ...
  	$ Location         : Factor w/ 2 levels "CANOPY","ROW": 1 1 1 1 1 1 1 1 1 1 ...
