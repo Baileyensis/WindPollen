@@ -19,8 +19,9 @@ My data:
 I collected pollen at two farms (Orchards) during the day and at night (Interval) for 9 or 15 hours (Interval.Duration), respectively. Pollen was collected from points arranged in a 3 x 3 grid (Rows A-B, Columns 1-3). The collection traps faced either North or South (Direction), and were positioned either close to the tree or in the middle of the row (Location). I identified pollen as either Cherry, Other angiosperm, or Gymnosperm (PollenType) and counted the number of pollen grains from each sample (Count).
 
 Data set includes:
-60 observations from Orchard CSO (12 are NAs) x 3 pollen types = 180 (36 NAs)
-71 observations from Orchard HBA (1 is NA) x 3 pollen types = 213 (3 NAs)
+
+	60 observations from Orchard CSO (12 are NAs) x 3 pollen types = 180 (36 NAs)
+	71 observations from Orchard HBA (1 is NA) x 3 pollen types = 213 (3 NAs)
 
 I have fit my data to three model functions in R: glm(), glm.nb() [MASS package], and gam() [mgcv package]. I have used rootograms [countreg package] to assess the fit of my three count regression models. To model the spatial data collection points, I added an mrf smooth function to the Row parameter in the gams. 
 
