@@ -1,0 +1,433 @@
+"Sample","Orchard","Location","Row","Direction","Interval","Interval.Duration","PollenType","Count","TotalPollen","num"
+1,"CSO","CANOPY","4A","N","AM",9,"Cherry","NA","NA",1
+1,"CSO","CANOPY","4A","N","PM",15,"Cherry",0,13,2
+2,"CSO","CANOPY","4A","S","AM",9,"Cherry","NA","NA",3
+2,"CSO","CANOPY","4A","S","PM",15,"Cherry",0,21,4
+5,"CSO","CANOPY","4B","N","AM",9,"Cherry","NA","NA",5
+5,"CSO","CANOPY","4B","N","PM",15,"Cherry",0,12,6
+6,"CSO","CANOPY","4B","S","AM",9,"Cherry","NA","NA",7
+6,"CSO","CANOPY","4B","S","PM",15,"Cherry",0,54,8
+9,"CSO","CANOPY","4C","N","AM",9,"Cherry","NA","NA",9
+9,"CSO","CANOPY","4C","N","PM",15,"Cherry",0,29,10
+10,"CSO","CANOPY","4C","S","AM",9,"Cherry","NA","NA",11
+10,"CSO","CANOPY","4C","S","PM",15,"Cherry",1,27,12
+13,"CSO","CANOPY","5A","N","AM",9,"Cherry",4,7,13
+13,"CSO","CANOPY","5A","N","PM",15,"Cherry",0,21,14
+14,"CSO","CANOPY","5A","S","AM",9,"Cherry",2,15,15
+14,"CSO","CANOPY","5A","S","PM",15,"Cherry",1,4,16
+17,"CSO","CANOPY","5B","N","AM",9,"Cherry",0,5,17
+17,"CSO","CANOPY","5B","N","PM",15,"Cherry",1,14,18
+18,"CSO","CANOPY","5B","S","AM",9,"Cherry",0,4,19
+18,"CSO","CANOPY","5B","S","PM",15,"Cherry",0,60,20
+21,"CSO","CANOPY","5C","N","AM",9,"Cherry",0,8,21
+21,"CSO","CANOPY","5C","N","PM",15,"Cherry",0,26,22
+22,"CSO","CANOPY","5C","S","AM",9,"Cherry",0,4,23
+22,"CSO","CANOPY","5C","S","PM",15,"Cherry",0,41,24
+25,"CSO","CANOPY","6A","N","AM",9,"Cherry",2,15,25
+25,"CSO","CANOPY","6A","N","PM",15,"Cherry",2,16,26
+26,"CSO","CANOPY","6A","S","AM",9,"Cherry",1,8,27
+26,"CSO","CANOPY","6A","S","PM",15,"Cherry",0,1,28
+29,"CSO","CANOPY","6B","N","AM",9,"Cherry",0,5,29
+29,"CSO","CANOPY","6B","N","PM",15,"Cherry",0,10,30
+30,"CSO","CANOPY","6B","S","AM",9,"Cherry",0,3,31
+30,"CSO","CANOPY","6B","S","PM",15,"Cherry",0,44,32
+33,"CSO","CANOPY","6C","N","AM",9,"Cherry",0,2,33
+33,"CSO","CANOPY","6C","N","PM",15,"Cherry",0,22,34
+34,"CSO","CANOPY","6C","S","AM",9,"Cherry",0,17,35
+34,"CSO","CANOPY","6C","S","PM",15,"Cherry",0,7,36
+3,"CSO","ROW","4A","N","AM",9,"Cherry","NA","NA",37
+3,"CSO","ROW","4A","N","PM",15,"Cherry",1,30,38
+4,"CSO","ROW","4A","S","AM",9,"Cherry","NA","NA",39
+4,"CSO","ROW","4A","S","PM",15,"Cherry",0,6,40
+7,"CSO","ROW","4B","N","AM",9,"Cherry","NA","NA",41
+7,"CSO","ROW","4B","N","PM",15,"Cherry",0,18,42
+8,"CSO","ROW","4B","S","AM",9,"Cherry","NA","NA",43
+8,"CSO","ROW","4B","S","PM",15,"Cherry",0,6,44
+11,"CSO","ROW","4C","N","AM",9,"Cherry","NA","NA",45
+11,"CSO","ROW","4C","N","PM",15,"Cherry",0,15,46
+12,"CSO","ROW","4C","S","AM",9,"Cherry","NA","NA",47
+12,"CSO","ROW","4C","S","PM",15,"Cherry",1,13,48
+15,"CSO","ROW","5A","N","AM",9,"Cherry",1,10,49
+15,"CSO","ROW","5A","N","PM",15,"Cherry",1,12,50
+16,"CSO","ROW","5A","S","AM",9,"Cherry",2,34,51
+16,"CSO","ROW","5A","S","PM",15,"Cherry",1,15,52
+19,"CSO","ROW","5B","N","AM",9,"Cherry",0,11,53
+19,"CSO","ROW","5B","N","PM",15,"Cherry",4,26,54
+20,"CSO","ROW","5B","S","AM",9,"Cherry",0,7,55
+20,"CSO","ROW","5B","S","PM",15,"Cherry",0,17,56
+23,"CSO","ROW","5C","N","AM",9,"Cherry",0,5,57
+23,"CSO","ROW","5C","N","PM",15,"Cherry",0,5,58
+24,"CSO","ROW","5C","S","AM",9,"Cherry",0,9,59
+24,"CSO","ROW","5C","S","PM",15,"Cherry",0,4,60
+27,"CSO","ROW","6A","N","AM",9,"Cherry",7,18,61
+27,"CSO","ROW","6A","N","PM",15,"Cherry",2,7,62
+28,"CSO","ROW","6A","S","AM",9,"Cherry",21,43,63
+28,"CSO","ROW","6A","S","PM",15,"Cherry",0,1,64
+31,"CSO","ROW","6B","N","AM",9,"Cherry",0,12,65
+31,"CSO","ROW","6B","N","PM",15,"Cherry",0,8,66
+32,"CSO","ROW","6B","S","AM",9,"Cherry",0,14,67
+32,"CSO","ROW","6B","S","PM",15,"Cherry",0,5,68
+35,"CSO","ROW","6C","N","AM",9,"Cherry",0,17,69
+35,"CSO","ROW","6C","N","PM",15,"Cherry",0,5,70
+36,"CSO","ROW","6C","S","AM",9,"Cherry",0,9,71
+36,"CSO","ROW","6C","S","PM",15,"Cherry",0,4,72
+1,"HBA","CANOPY","1A","N","AM",9,"Cherry",13,38,73
+1,"HBA","CANOPY","1A","N","PM",15,"Cherry",245,374,74
+2,"HBA","CANOPY","1A","S","AM",9,"Cherry",80,118,75
+2,"HBA","CANOPY","1A","S","PM",15,"Cherry",98,144,76
+5,"HBA","CANOPY","1B","N","AM",9,"Cherry",200,351,77
+5,"HBA","CANOPY","1B","N","PM",15,"Cherry",530,884,78
+6,"HBA","CANOPY","1B","S","AM",9,"Cherry",196,338,79
+6,"HBA","CANOPY","1B","S","PM",15,"Cherry",311,490,80
+9,"HBA","CANOPY","1C","N","AM",9,"Cherry",104,197,81
+9,"HBA","CANOPY","1C","N","PM",15,"Cherry",276,446,82
+10,"HBA","CANOPY","1C","S","AM",9,"Cherry",400,589,83
+10,"HBA","CANOPY","1C","S","PM",15,"Cherry",326,508,84
+13,"HBA","CANOPY","2A","N","AM",9,"Cherry",29,42,85
+13,"HBA","CANOPY","2A","N","PM",15,"Cherry","NA","NA",86
+14,"HBA","CANOPY","2A","S","AM",9,"Cherry",86,138,87
+14,"HBA","CANOPY","2A","S","PM",15,"Cherry",188,291,88
+17,"HBA","CANOPY","2B","N","AM",9,"Cherry",81,121,89
+17,"HBA","CANOPY","2B","N","PM",15,"Cherry",5212,7471,90
+18,"HBA","CANOPY","2B","S","AM",9,"Cherry",58,84,91
+18,"HBA","CANOPY","2B","S","PM",15,"Cherry",1434,2212,92
+21,"HBA","CANOPY","2C","N","AM",9,"Cherry",12,20,93
+21,"HBA","CANOPY","2C","N","PM",15,"Cherry",148,197,94
+22,"HBA","CANOPY","2C","S","AM",9,"Cherry",55,92,95
+22,"HBA","CANOPY","2C","S","PM",15,"Cherry",688,958,96
+25,"HBA","CANOPY","3A","N","AM",9,"Cherry",19,50,97
+25,"HBA","CANOPY","3A","N","PM",15,"Cherry",644,922,98
+26,"HBA","CANOPY","3A","S","AM",9,"Cherry",78,146,99
+26,"HBA","CANOPY","3A","S","PM",15,"Cherry",1012,1382,100
+29,"HBA","CANOPY","3B","N","AM",9,"Cherry",42,79,101
+29,"HBA","CANOPY","3B","N","PM",15,"Cherry",493,675,102
+30,"HBA","CANOPY","3B","S","AM",9,"Cherry",130,242,103
+30,"HBA","CANOPY","3B","S","PM",15,"Cherry",179,260,104
+33,"HBA","CANOPY","3C","N","AM",9,"Cherry",3227,6398,105
+33,"HBA","CANOPY","3C","N","PM",15,"Cherry",369,576,106
+34,"HBA","CANOPY","3C","S","AM",9,"Cherry",259,483,107
+34,"HBA","CANOPY","3C","S","PM",15,"Cherry",383,679,108
+3,"HBA","ROW","1A","N","AM",9,"Cherry",27,55,109
+3,"HBA","ROW","1A","N","PM",15,"Cherry",65,121,110
+4,"HBA","ROW","1A","S","AM",9,"Cherry",222,307,111
+4,"HBA","ROW","1A","S","PM",15,"Cherry",78,145,112
+7,"HBA","ROW","1B","N","AM",9,"Cherry",16,36,113
+7,"HBA","ROW","1B","N","PM",15,"Cherry",117,176,114
+8,"HBA","ROW","1B","S","AM",9,"Cherry",25,63,115
+8,"HBA","ROW","1B","S","PM",15,"Cherry",111,189,116
+11,"HBA","ROW","1C","N","AM",9,"Cherry",52,93,117
+11,"HBA","ROW","1C","N","PM",15,"Cherry",94,143,118
+12,"HBA","ROW","1C","S","AM",9,"Cherry",70,99,119
+12,"HBA","ROW","1C","S","PM",15,"Cherry",201,303,120
+15,"HBA","ROW","2A","N","AM",9,"Cherry",52,83,121
+15,"HBA","ROW","2A","N","PM",15,"Cherry",73,110,122
+16,"HBA","ROW","2A","S","AM",9,"Cherry",108,180,123
+16,"HBA","ROW","2A","S","PM",15,"Cherry",116,189,124
+19,"HBA","ROW","2B","N","AM",9,"Cherry",26,55,125
+19,"HBA","ROW","2B","N","PM",15,"Cherry",133,200,126
+20,"HBA","ROW","2B","S","AM",9,"Cherry",117,196,127
+20,"HBA","ROW","2B","S","PM",15,"Cherry",120,201,128
+23,"HBA","ROW","2C","N","AM",9,"Cherry",21,40,129
+23,"HBA","ROW","2C","N","PM",15,"Cherry",96,142,130
+24,"HBA","ROW","2C","S","AM",9,"Cherry",104,147,131
+24,"HBA","ROW","2C","S","PM",15,"Cherry",234,349,132
+27,"HBA","ROW","3A","N","AM",9,"Cherry",41,63,133
+27,"HBA","ROW","3A","N","PM",15,"Cherry",89,133,134
+28,"HBA","ROW","3A","S","AM",9,"Cherry",142,234,135
+28,"HBA","ROW","3A","S","PM",15,"Cherry",92,138,136
+31,"HBA","ROW","3B","N","AM",9,"Cherry",58,108,137
+31,"HBA","ROW","3B","N","PM",15,"Cherry",131,179,138
+32,"HBA","ROW","3B","S","AM",9,"Cherry",154,305,139
+32,"HBA","ROW","3B","S","PM",15,"Cherry",103,156,140
+35,"HBA","ROW","3C","N","AM",9,"Cherry",65,118,141
+35,"HBA","ROW","3C","N","PM",15,"Cherry",137,225,142
+36,"HBA","ROW","3C","S","AM",9,"Cherry",36,171,143
+36,"HBA","ROW","3C","S","PM",15,"Cherry",127,226,144
+1,"CSO","CANOPY","4A","N","AM",9,"Other angiosperm","NA","NA",1
+1,"CSO","CANOPY","4A","N","PM",15,"Other angiosperm",2,13,2
+2,"CSO","CANOPY","4A","S","AM",9,"Other angiosperm","NA","NA",3
+2,"CSO","CANOPY","4A","S","PM",15,"Other angiosperm",2,21,4
+5,"CSO","CANOPY","4B","N","AM",9,"Other angiosperm","NA","NA",5
+5,"CSO","CANOPY","4B","N","PM",15,"Other angiosperm",3,12,6
+6,"CSO","CANOPY","4B","S","AM",9,"Other angiosperm","NA","NA",7
+6,"CSO","CANOPY","4B","S","PM",15,"Other angiosperm",10,54,8
+9,"CSO","CANOPY","4C","N","AM",9,"Other angiosperm","NA","NA",9
+9,"CSO","CANOPY","4C","N","PM",15,"Other angiosperm",4,29,10
+10,"CSO","CANOPY","4C","S","AM",9,"Other angiosperm","NA","NA",11
+10,"CSO","CANOPY","4C","S","PM",15,"Other angiosperm",5,27,12
+13,"CSO","CANOPY","5A","N","AM",9,"Other angiosperm",1,7,13
+13,"CSO","CANOPY","5A","N","PM",15,"Other angiosperm",0,21,14
+14,"CSO","CANOPY","5A","S","AM",9,"Other angiosperm",4,15,15
+14,"CSO","CANOPY","5A","S","PM",15,"Other angiosperm",0,4,16
+17,"CSO","CANOPY","5B","N","AM",9,"Other angiosperm",2,5,17
+17,"CSO","CANOPY","5B","N","PM",15,"Other angiosperm",5,14,18
+18,"CSO","CANOPY","5B","S","AM",9,"Other angiosperm",3,4,19
+18,"CSO","CANOPY","5B","S","PM",15,"Other angiosperm",11,60,20
+21,"CSO","CANOPY","5C","N","AM",9,"Other angiosperm",5,8,21
+21,"CSO","CANOPY","5C","N","PM",15,"Other angiosperm",10,26,22
+22,"CSO","CANOPY","5C","S","AM",9,"Other angiosperm",2,4,23
+22,"CSO","CANOPY","5C","S","PM",15,"Other angiosperm",7,41,24
+25,"CSO","CANOPY","6A","N","AM",9,"Other angiosperm",5,15,25
+25,"CSO","CANOPY","6A","N","PM",15,"Other angiosperm",7,16,26
+26,"CSO","CANOPY","6A","S","AM",9,"Other angiosperm",3,8,27
+26,"CSO","CANOPY","6A","S","PM",15,"Other angiosperm",1,1,28
+29,"CSO","CANOPY","6B","N","AM",9,"Other angiosperm",5,5,29
+29,"CSO","CANOPY","6B","N","PM",15,"Other angiosperm",10,10,30
+30,"CSO","CANOPY","6B","S","AM",9,"Other angiosperm",0,3,31
+30,"CSO","CANOPY","6B","S","PM",15,"Other angiosperm",3,44,32
+33,"CSO","CANOPY","6C","N","AM",9,"Other angiosperm",0,2,33
+33,"CSO","CANOPY","6C","N","PM",15,"Other angiosperm",6,22,34
+34,"CSO","CANOPY","6C","S","AM",9,"Other angiosperm",3,17,35
+34,"CSO","CANOPY","6C","S","PM",15,"Other angiosperm",4,7,36
+3,"CSO","ROW","4A","N","AM",9,"Other angiosperm","NA","NA",37
+3,"CSO","ROW","4A","N","PM",15,"Other angiosperm",3,30,38
+4,"CSO","ROW","4A","S","AM",9,"Other angiosperm","NA","NA",39
+4,"CSO","ROW","4A","S","PM",15,"Other angiosperm",0,6,40
+7,"CSO","ROW","4B","N","AM",9,"Other angiosperm","NA","NA",41
+7,"CSO","ROW","4B","N","PM",15,"Other angiosperm",1,18,42
+8,"CSO","ROW","4B","S","AM",9,"Other angiosperm","NA","NA",43
+8,"CSO","ROW","4B","S","PM",15,"Other angiosperm",1,6,44
+11,"CSO","ROW","4C","N","AM",9,"Other angiosperm","NA","NA",45
+11,"CSO","ROW","4C","N","PM",15,"Other angiosperm",1,15,46
+12,"CSO","ROW","4C","S","AM",9,"Other angiosperm","NA","NA",47
+12,"CSO","ROW","4C","S","PM",15,"Other angiosperm",0,13,48
+15,"CSO","ROW","5A","N","AM",9,"Other angiosperm",2,10,49
+15,"CSO","ROW","5A","N","PM",15,"Other angiosperm",2,12,50
+16,"CSO","ROW","5A","S","AM",9,"Other angiosperm",14,34,51
+16,"CSO","ROW","5A","S","PM",15,"Other angiosperm",2,15,52
+19,"CSO","ROW","5B","N","AM",9,"Other angiosperm",5,11,53
+19,"CSO","ROW","5B","N","PM",15,"Other angiosperm",8,26,54
+20,"CSO","ROW","5B","S","AM",9,"Other angiosperm",3,7,55
+20,"CSO","ROW","5B","S","PM",15,"Other angiosperm",3,17,56
+23,"CSO","ROW","5C","N","AM",9,"Other angiosperm",1,5,57
+23,"CSO","ROW","5C","N","PM",15,"Other angiosperm",1,5,58
+24,"CSO","ROW","5C","S","AM",9,"Other angiosperm",3,9,59
+24,"CSO","ROW","5C","S","PM",15,"Other angiosperm",2,4,60
+27,"CSO","ROW","6A","N","AM",9,"Other angiosperm",7,18,61
+27,"CSO","ROW","6A","N","PM",15,"Other angiosperm",2,7,62
+28,"CSO","ROW","6A","S","AM",9,"Other angiosperm",10,43,63
+28,"CSO","ROW","6A","S","PM",15,"Other angiosperm",0,1,64
+31,"CSO","ROW","6B","N","AM",9,"Other angiosperm",4,12,65
+31,"CSO","ROW","6B","N","PM",15,"Other angiosperm",8,8,66
+32,"CSO","ROW","6B","S","AM",9,"Other angiosperm",5,14,67
+32,"CSO","ROW","6B","S","PM",15,"Other angiosperm",5,5,68
+35,"CSO","ROW","6C","N","AM",9,"Other angiosperm",2,17,69
+35,"CSO","ROW","6C","N","PM",15,"Other angiosperm",5,5,70
+36,"CSO","ROW","6C","S","AM",9,"Other angiosperm",5,9,71
+36,"CSO","ROW","6C","S","PM",15,"Other angiosperm",4,4,72
+1,"HBA","CANOPY","1A","N","AM",9,"Other angiosperm",25,38,73
+1,"HBA","CANOPY","1A","N","PM",15,"Other angiosperm",124,374,74
+2,"HBA","CANOPY","1A","S","AM",9,"Other angiosperm",38,118,75
+2,"HBA","CANOPY","1A","S","PM",15,"Other angiosperm",44,144,76
+5,"HBA","CANOPY","1B","N","AM",9,"Other angiosperm",150,351,77
+5,"HBA","CANOPY","1B","N","PM",15,"Other angiosperm",347,884,78
+6,"HBA","CANOPY","1B","S","AM",9,"Other angiosperm",142,338,79
+6,"HBA","CANOPY","1B","S","PM",15,"Other angiosperm",174,490,80
+9,"HBA","CANOPY","1C","N","AM",9,"Other angiosperm",93,197,81
+9,"HBA","CANOPY","1C","N","PM",15,"Other angiosperm",169,446,82
+10,"HBA","CANOPY","1C","S","AM",9,"Other angiosperm",189,589,83
+10,"HBA","CANOPY","1C","S","PM",15,"Other angiosperm",179,508,84
+13,"HBA","CANOPY","2A","N","AM",9,"Other angiosperm",12,42,85
+13,"HBA","CANOPY","2A","N","PM",15,"Other angiosperm","NA","NA",86
+14,"HBA","CANOPY","2A","S","AM",9,"Other angiosperm",50,138,87
+14,"HBA","CANOPY","2A","S","PM",15,"Other angiosperm",90,291,88
+17,"HBA","CANOPY","2B","N","AM",9,"Other angiosperm",40,121,89
+17,"HBA","CANOPY","2B","N","PM",15,"Other angiosperm",2247,7471,90
+18,"HBA","CANOPY","2B","S","AM",9,"Other angiosperm",25,84,91
+18,"HBA","CANOPY","2B","S","PM",15,"Other angiosperm",773,2212,92
+21,"HBA","CANOPY","2C","N","AM",9,"Other angiosperm",7,20,93
+21,"HBA","CANOPY","2C","N","PM",15,"Other angiosperm",48,197,94
+22,"HBA","CANOPY","2C","S","AM",9,"Other angiosperm",35,92,95
+22,"HBA","CANOPY","2C","S","PM",15,"Other angiosperm",263,958,96
+25,"HBA","CANOPY","3A","N","AM",9,"Other angiosperm",31,50,97
+25,"HBA","CANOPY","3A","N","PM",15,"Other angiosperm",273,922,98
+26,"HBA","CANOPY","3A","S","AM",9,"Other angiosperm",68,146,99
+26,"HBA","CANOPY","3A","S","PM",15,"Other angiosperm",367,1382,100
+29,"HBA","CANOPY","3B","N","AM",9,"Other angiosperm",37,79,101
+29,"HBA","CANOPY","3B","N","PM",15,"Other angiosperm",177,675,102
+30,"HBA","CANOPY","3B","S","AM",9,"Other angiosperm",110,242,103
+30,"HBA","CANOPY","3B","S","PM",15,"Other angiosperm",77,260,104
+33,"HBA","CANOPY","3C","N","AM",9,"Other angiosperm",3167,6398,105
+33,"HBA","CANOPY","3C","N","PM",15,"Other angiosperm",207,576,106
+34,"HBA","CANOPY","3C","S","AM",9,"Other angiosperm",223,483,107
+34,"HBA","CANOPY","3C","S","PM",15,"Other angiosperm",291,679,108
+3,"HBA","ROW","1A","N","AM",9,"Other angiosperm",24,55,109
+3,"HBA","ROW","1A","N","PM",15,"Other angiosperm",54,121,110
+4,"HBA","ROW","1A","S","AM",9,"Other angiosperm",82,307,111
+4,"HBA","ROW","1A","S","PM",15,"Other angiosperm",65,145,112
+7,"HBA","ROW","1B","N","AM",9,"Other angiosperm",20,36,113
+7,"HBA","ROW","1B","N","PM",15,"Other angiosperm",56,176,114
+8,"HBA","ROW","1B","S","AM",9,"Other angiosperm",36,63,115
+8,"HBA","ROW","1B","S","PM",15,"Other angiosperm",71,189,116
+11,"HBA","ROW","1C","N","AM",9,"Other angiosperm",40,93,117
+11,"HBA","ROW","1C","N","PM",15,"Other angiosperm",47,143,118
+12,"HBA","ROW","1C","S","AM",9,"Other angiosperm",29,99,119
+12,"HBA","ROW","1C","S","PM",15,"Other angiosperm",98,303,120
+15,"HBA","ROW","2A","N","AM",9,"Other angiosperm",30,83,121
+15,"HBA","ROW","2A","N","PM",15,"Other angiosperm",31,110,122
+16,"HBA","ROW","2A","S","AM",9,"Other angiosperm",69,180,123
+16,"HBA","ROW","2A","S","PM",15,"Other angiosperm",69,189,124
+19,"HBA","ROW","2B","N","AM",9,"Other angiosperm",27,55,125
+19,"HBA","ROW","2B","N","PM",15,"Other angiosperm",61,200,126
+20,"HBA","ROW","2B","S","AM",9,"Other angiosperm",79,196,127
+20,"HBA","ROW","2B","S","PM",15,"Other angiosperm",74,201,128
+23,"HBA","ROW","2C","N","AM",9,"Other angiosperm",18,40,129
+23,"HBA","ROW","2C","N","PM",15,"Other angiosperm",44,142,130
+24,"HBA","ROW","2C","S","AM",9,"Other angiosperm",43,147,131
+24,"HBA","ROW","2C","S","PM",15,"Other angiosperm",105,349,132
+27,"HBA","ROW","3A","N","AM",9,"Other angiosperm",20,63,133
+27,"HBA","ROW","3A","N","PM",15,"Other angiosperm",42,133,134
+28,"HBA","ROW","3A","S","AM",9,"Other angiosperm",86,234,135
+28,"HBA","ROW","3A","S","PM",15,"Other angiosperm",43,138,136
+31,"HBA","ROW","3B","N","AM",9,"Other angiosperm",49,108,137
+31,"HBA","ROW","3B","N","PM",15,"Other angiosperm",48,179,138
+32,"HBA","ROW","3B","S","AM",9,"Other angiosperm",148,305,139
+32,"HBA","ROW","3B","S","PM",15,"Other angiosperm",51,156,140
+35,"HBA","ROW","3C","N","AM",9,"Other angiosperm",53,118,141
+35,"HBA","ROW","3C","N","PM",15,"Other angiosperm",83,225,142
+36,"HBA","ROW","3C","S","AM",9,"Other angiosperm",132,171,143
+36,"HBA","ROW","3C","S","PM",15,"Other angiosperm",96,226,144
+1,"CSO","CANOPY","4A","N","AM",9,"Other gymnosperm","NA","NA",1
+1,"CSO","CANOPY","4A","N","PM",15,"Other gymnosperm",11,13,2
+2,"CSO","CANOPY","4A","S","AM",9,"Other gymnosperm","NA","NA",3
+2,"CSO","CANOPY","4A","S","PM",15,"Other gymnosperm",19,21,4
+5,"CSO","CANOPY","4B","N","AM",9,"Other gymnosperm","NA","NA",5
+5,"CSO","CANOPY","4B","N","PM",15,"Other gymnosperm",9,12,6
+6,"CSO","CANOPY","4B","S","AM",9,"Other gymnosperm","NA","NA",7
+6,"CSO","CANOPY","4B","S","PM",15,"Other gymnosperm",44,54,8
+9,"CSO","CANOPY","4C","N","AM",9,"Other gymnosperm","NA","NA",9
+9,"CSO","CANOPY","4C","N","PM",15,"Other gymnosperm",25,29,10
+10,"CSO","CANOPY","4C","S","AM",9,"Other gymnosperm","NA","NA",11
+10,"CSO","CANOPY","4C","S","PM",15,"Other gymnosperm",21,27,12
+13,"CSO","CANOPY","5A","N","AM",9,"Other gymnosperm",2,7,13
+13,"CSO","CANOPY","5A","N","PM",15,"Other gymnosperm",21,21,14
+14,"CSO","CANOPY","5A","S","AM",9,"Other gymnosperm",9,15,15
+14,"CSO","CANOPY","5A","S","PM",15,"Other gymnosperm",3,4,16
+17,"CSO","CANOPY","5B","N","AM",9,"Other gymnosperm",3,5,17
+17,"CSO","CANOPY","5B","N","PM",15,"Other gymnosperm",8,14,18
+18,"CSO","CANOPY","5B","S","AM",9,"Other gymnosperm",1,4,19
+18,"CSO","CANOPY","5B","S","PM",15,"Other gymnosperm",49,60,20
+21,"CSO","CANOPY","5C","N","AM",9,"Other gymnosperm",3,8,21
+21,"CSO","CANOPY","5C","N","PM",15,"Other gymnosperm",16,26,22
+22,"CSO","CANOPY","5C","S","AM",9,"Other gymnosperm",2,4,23
+22,"CSO","CANOPY","5C","S","PM",15,"Other gymnosperm",34,41,24
+25,"CSO","CANOPY","6A","N","AM",9,"Other gymnosperm",8,15,25
+25,"CSO","CANOPY","6A","N","PM",15,"Other gymnosperm",7,16,26
+26,"CSO","CANOPY","6A","S","AM",9,"Other gymnosperm",4,8,27
+26,"CSO","CANOPY","6A","S","PM",15,"Other gymnosperm",0,1,28
+29,"CSO","CANOPY","6B","N","AM",9,"Other gymnosperm",0,5,29
+29,"CSO","CANOPY","6B","N","PM",15,"Other gymnosperm",0,10,30
+30,"CSO","CANOPY","6B","S","AM",9,"Other gymnosperm",3,3,31
+30,"CSO","CANOPY","6B","S","PM",15,"Other gymnosperm",41,44,32
+33,"CSO","CANOPY","6C","N","AM",9,"Other gymnosperm",2,2,33
+33,"CSO","CANOPY","6C","N","PM",15,"Other gymnosperm",16,22,34
+34,"CSO","CANOPY","6C","S","AM",9,"Other gymnosperm",14,17,35
+34,"CSO","CANOPY","6C","S","PM",15,"Other gymnosperm",3,7,36
+3,"CSO","ROW","4A","N","AM",9,"Other gymnosperm","NA","NA",37
+3,"CSO","ROW","4A","N","PM",15,"Other gymnosperm",26,30,38
+4,"CSO","ROW","4A","S","AM",9,"Other gymnosperm","NA","NA",39
+4,"CSO","ROW","4A","S","PM",15,"Other gymnosperm",6,6,40
+7,"CSO","ROW","4B","N","AM",9,"Other gymnosperm","NA","NA",41
+7,"CSO","ROW","4B","N","PM",15,"Other gymnosperm",17,18,42
+8,"CSO","ROW","4B","S","AM",9,"Other gymnosperm","NA","NA",43
+8,"CSO","ROW","4B","S","PM",15,"Other gymnosperm",5,6,44
+11,"CSO","ROW","4C","N","AM",9,"Other gymnosperm","NA","NA",45
+11,"CSO","ROW","4C","N","PM",15,"Other gymnosperm",14,15,46
+12,"CSO","ROW","4C","S","AM",9,"Other gymnosperm","NA","NA",47
+12,"CSO","ROW","4C","S","PM",15,"Other gymnosperm",12,13,48
+15,"CSO","ROW","5A","N","AM",9,"Other gymnosperm",7,10,49
+15,"CSO","ROW","5A","N","PM",15,"Other gymnosperm",9,12,50
+16,"CSO","ROW","5A","S","AM",9,"Other gymnosperm",18,34,51
+16,"CSO","ROW","5A","S","PM",15,"Other gymnosperm",12,15,52
+19,"CSO","ROW","5B","N","AM",9,"Other gymnosperm",6,11,53
+19,"CSO","ROW","5B","N","PM",15,"Other gymnosperm",14,26,54
+20,"CSO","ROW","5B","S","AM",9,"Other gymnosperm",4,7,55
+20,"CSO","ROW","5B","S","PM",15,"Other gymnosperm",14,17,56
+23,"CSO","ROW","5C","N","AM",9,"Other gymnosperm",4,5,57
+23,"CSO","ROW","5C","N","PM",15,"Other gymnosperm",4,5,58
+24,"CSO","ROW","5C","S","AM",9,"Other gymnosperm",6,9,59
+24,"CSO","ROW","5C","S","PM",15,"Other gymnosperm",2,4,60
+27,"CSO","ROW","6A","N","AM",9,"Other gymnosperm",4,18,61
+27,"CSO","ROW","6A","N","PM",15,"Other gymnosperm",3,7,62
+28,"CSO","ROW","6A","S","AM",9,"Other gymnosperm",12,43,63
+28,"CSO","ROW","6A","S","PM",15,"Other gymnosperm",1,1,64
+31,"CSO","ROW","6B","N","AM",9,"Other gymnosperm",8,12,65
+31,"CSO","ROW","6B","N","PM",15,"Other gymnosperm",0,8,66
+32,"CSO","ROW","6B","S","AM",9,"Other gymnosperm",9,14,67
+32,"CSO","ROW","6B","S","PM",15,"Other gymnosperm",0,5,68
+35,"CSO","ROW","6C","N","AM",9,"Other gymnosperm",15,17,69
+35,"CSO","ROW","6C","N","PM",15,"Other gymnosperm",0,5,70
+36,"CSO","ROW","6C","S","AM",9,"Other gymnosperm",4,9,71
+36,"CSO","ROW","6C","S","PM",15,"Other gymnosperm",0,4,72
+1,"HBA","CANOPY","1A","N","AM",9,"Other gymnosperm",0,38,73
+1,"HBA","CANOPY","1A","N","PM",15,"Other gymnosperm",5,374,74
+2,"HBA","CANOPY","1A","S","AM",9,"Other gymnosperm",0,118,75
+2,"HBA","CANOPY","1A","S","PM",15,"Other gymnosperm",2,144,76
+5,"HBA","CANOPY","1B","N","AM",9,"Other gymnosperm",1,351,77
+5,"HBA","CANOPY","1B","N","PM",15,"Other gymnosperm",7,884,78
+6,"HBA","CANOPY","1B","S","AM",9,"Other gymnosperm",0,338,79
+6,"HBA","CANOPY","1B","S","PM",15,"Other gymnosperm",5,490,80
+9,"HBA","CANOPY","1C","N","AM",9,"Other gymnosperm",0,197,81
+9,"HBA","CANOPY","1C","N","PM",15,"Other gymnosperm",1,446,82
+10,"HBA","CANOPY","1C","S","AM",9,"Other gymnosperm",0,589,83
+10,"HBA","CANOPY","1C","S","PM",15,"Other gymnosperm",3,508,84
+13,"HBA","CANOPY","2A","N","AM",9,"Other gymnosperm",1,42,85
+13,"HBA","CANOPY","2A","N","PM",15,"Other gymnosperm","NA","NA",86
+14,"HBA","CANOPY","2A","S","AM",9,"Other gymnosperm",2,138,87
+14,"HBA","CANOPY","2A","S","PM",15,"Other gymnosperm",13,291,88
+17,"HBA","CANOPY","2B","N","AM",9,"Other gymnosperm",0,121,89
+17,"HBA","CANOPY","2B","N","PM",15,"Other gymnosperm",12,7471,90
+18,"HBA","CANOPY","2B","S","AM",9,"Other gymnosperm",1,84,91
+18,"HBA","CANOPY","2B","S","PM",15,"Other gymnosperm",5,2212,92
+21,"HBA","CANOPY","2C","N","AM",9,"Other gymnosperm",1,20,93
+21,"HBA","CANOPY","2C","N","PM",15,"Other gymnosperm",1,197,94
+22,"HBA","CANOPY","2C","S","AM",9,"Other gymnosperm",2,92,95
+22,"HBA","CANOPY","2C","S","PM",15,"Other gymnosperm",7,958,96
+25,"HBA","CANOPY","3A","N","AM",9,"Other gymnosperm",0,50,97
+25,"HBA","CANOPY","3A","N","PM",15,"Other gymnosperm",5,922,98
+26,"HBA","CANOPY","3A","S","AM",9,"Other gymnosperm",0,146,99
+26,"HBA","CANOPY","3A","S","PM",15,"Other gymnosperm",3,1382,100
+29,"HBA","CANOPY","3B","N","AM",9,"Other gymnosperm",0,79,101
+29,"HBA","CANOPY","3B","N","PM",15,"Other gymnosperm",5,675,102
+30,"HBA","CANOPY","3B","S","AM",9,"Other gymnosperm",2,242,103
+30,"HBA","CANOPY","3B","S","PM",15,"Other gymnosperm",4,260,104
+33,"HBA","CANOPY","3C","N","AM",9,"Other gymnosperm",4,6398,105
+33,"HBA","CANOPY","3C","N","PM",15,"Other gymnosperm",0,576,106
+34,"HBA","CANOPY","3C","S","AM",9,"Other gymnosperm",1,483,107
+34,"HBA","CANOPY","3C","S","PM",15,"Other gymnosperm",5,679,108
+3,"HBA","ROW","1A","N","AM",9,"Other gymnosperm",4,55,109
+3,"HBA","ROW","1A","N","PM",15,"Other gymnosperm",2,121,110
+4,"HBA","ROW","1A","S","AM",9,"Other gymnosperm",3,307,111
+4,"HBA","ROW","1A","S","PM",15,"Other gymnosperm",2,145,112
+7,"HBA","ROW","1B","N","AM",9,"Other gymnosperm",0,36,113
+7,"HBA","ROW","1B","N","PM",15,"Other gymnosperm",3,176,114
+8,"HBA","ROW","1B","S","AM",9,"Other gymnosperm",2,63,115
+8,"HBA","ROW","1B","S","PM",15,"Other gymnosperm",7,189,116
+11,"HBA","ROW","1C","N","AM",9,"Other gymnosperm",1,93,117
+11,"HBA","ROW","1C","N","PM",15,"Other gymnosperm",2,143,118
+12,"HBA","ROW","1C","S","AM",9,"Other gymnosperm",0,99,119
+12,"HBA","ROW","1C","S","PM",15,"Other gymnosperm",4,303,120
+15,"HBA","ROW","2A","N","AM",9,"Other gymnosperm",1,83,121
+15,"HBA","ROW","2A","N","PM",15,"Other gymnosperm",6,110,122
+16,"HBA","ROW","2A","S","AM",9,"Other gymnosperm",3,180,123
+16,"HBA","ROW","2A","S","PM",15,"Other gymnosperm",4,189,124
+19,"HBA","ROW","2B","N","AM",9,"Other gymnosperm",2,55,125
+19,"HBA","ROW","2B","N","PM",15,"Other gymnosperm",6,200,126
+20,"HBA","ROW","2B","S","AM",9,"Other gymnosperm",0,196,127
+20,"HBA","ROW","2B","S","PM",15,"Other gymnosperm",7,201,128
+23,"HBA","ROW","2C","N","AM",9,"Other gymnosperm",1,40,129
+23,"HBA","ROW","2C","N","PM",15,"Other gymnosperm",2,142,130
+24,"HBA","ROW","2C","S","AM",9,"Other gymnosperm",0,147,131
+24,"HBA","ROW","2C","S","PM",15,"Other gymnosperm",10,349,132
+27,"HBA","ROW","3A","N","AM",9,"Other gymnosperm",2,63,133
+27,"HBA","ROW","3A","N","PM",15,"Other gymnosperm",2,133,134
+28,"HBA","ROW","3A","S","AM",9,"Other gymnosperm",6,234,135
+28,"HBA","ROW","3A","S","PM",15,"Other gymnosperm",3,138,136
+31,"HBA","ROW","3B","N","AM",9,"Other gymnosperm",1,108,137
+31,"HBA","ROW","3B","N","PM",15,"Other gymnosperm",0,179,138
+32,"HBA","ROW","3B","S","AM",9,"Other gymnosperm",3,305,139
+32,"HBA","ROW","3B","S","PM",15,"Other gymnosperm",2,156,140
+35,"HBA","ROW","3C","N","AM",9,"Other gymnosperm",0,118,141
+35,"HBA","ROW","3C","N","PM",15,"Other gymnosperm",5,225,142
+36,"HBA","ROW","3C","S","AM",9,"Other gymnosperm",3,171,143
+36,"HBA","ROW","3C","S","PM",15,"Other gymnosperm",3,226,144
